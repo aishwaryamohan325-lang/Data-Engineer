@@ -1,0 +1,1001 @@
+Order_ID,Customer_Name,Gender,Age,City,Product,Category,Price,Quantity,Order_Date,Payment_Method,Rating
+1000,Farhan Ali,Male,42,Multan,Headphones,Clothing,,2,2024-01-10,,
+1001,Ali Khan,,twenty five,,Makeup Kit,Electronics,33881,2,2024-05-20,,1
+1002,Farhan Ali,Male,,Islamabad,Watch,Clothing,101404,5,2024-01-10,Cash,1
+1003,Hassan Raza,Male,twenty five,Islamabad,Shoes,Clothing,74766,4,2024-01-10,card,
+1004,Ayesha Khan,,twenty five,Lahore,Watch,Accessories,55583,4,2024-05-20,Card,3
+1005,Bilal Ahmed,Male,29,Islamabad,Mobile Phone,Accessories,39822,3,2024-01-10,card,
+1006,Zainab Malik,Female,twenty five,Faisalabad,Laptop,Accessories,,4,2024-05-20,Card,4
+1007,Ahmed Ali,Male,43,Karachi,Laptop,Accessories,33879,4,2024-05-20,card,
+1008,Zainab Malik,Male,twenty five,Multan,Laptop,Electronics,108555,3,2024/02/15,Card,1
+1009,Usman Ali,Male,20,,Shirt,Electronics,,4,15-03-2024,COD,5
+1010,Farhan Ali,,,Faisalabad,Handbag,Accessories,14583,1,15-03-2024,Card,1
+1011,Usman Ali,Female,twenty five,Multan,Shoes,Clothing,,1,2024-01-10,Card,3
+1012,Hina Tariq,Female,18,Multan,Laptop,Accessories,43834,3,15-03-2024,Cash,
+1013,Zainab Malik,Male,twenty five,Lahore,Shirt,Clothing,,1,2024/02/15,card,
+1014,Ahmed Ali,Male,,Faisalabad,Shirt,Accessories,71632,5,2024-05-20,card,5
+1015,Ali Khan,Male,18,,Shirt,Accessories,21635,3,2024-05-20,COD,2
+1016,Sana Khan,,,Faisalabad,TV,Accessories,4987,1,2024/02/15,Card,1
+1017,Ahmed Ali,Female,twenty five,Islamabad,Mobile Phone,Clothing,,4,15-03-2024,COD,2
+1018,Usman Ali,,34,Karachi,Shirt,Accessories,,1,15-03-2024,Card,1
+1019,,Female,twenty five,Karachi,Mobile Phone,Accessories,,4,2024-01-10,,2
+1020,Usman Ali,Male,,Lahore,Watch,Beauty,21791,2,2024-05-20,,4
+1021,Bilal Ahmed,Female,,Islamabad,Handbag,Accessories,,5,2024-05-20,COD,2
+1022,Hina Tariq,Female,,Faisalabad,TV,Beauty,86656,5,2024-01-10,Card,1
+1023,Kiran Noor,Male,twenty five,Islamabad,TV,Clothing,,1,2024/02/15,,
+1024,Ahmed Ali,Male,42,Lahore,Makeup Kit,Accessories,68557,5,2024-05-20,cash,2
+1025,Sana Khan,Female,twenty five,,Shoes,Electronics,47723,2,15-03-2024,,2
+1026,Kiran Noor,Male,,Karachi,Watch,Electronics,43984,3,15-03-2024,cash,5
+1027,Bilal Ahmed,Male,twenty five,Islamabad,Laptop,Beauty,41244,2,15-03-2024,,5
+1028,Farhan Ali,Male,,Islamabad,Jewelry,Clothing,,3,2024-05-20,cash,
+1029,Ayesha Khan,Male,twenty five,Multan,Laptop,Clothing,,3,2024-05-20,COD,1
+1030,Usman Ali,Male,,Lahore,Laptop,Beauty,,4,2024/02/15,Card,5
+1031,Kiran Noor,Female,28,Lahore,Laptop,Clothing,,4,2024/02/15,card,4
+1032,Sana Khan,Female,twenty five,Faisalabad,Jewelry,Accessories,87690,3,2024/02/15,card,
+1033,Farhan Ali,Male,,,Watch,Beauty,61738,1,2024-01-10,Card,5
+1034,Usman Ali,Male,,Lahore,Headphones,Beauty,15909,4,2024/02/15,cash,2
+1035,Bilal Ahmed,Male,,,Shirt,Accessories,106721,1,2024/02/15,cash,4
+1036,Zainab Malik,Male,twenty five,Lahore,Mobile Phone,Electronics,,3,2024-05-20,Cash,5
+1037,Farhan Ali,Male,21,Islamabad,Laptop,Clothing,5637,2,2024-05-20,Card,4
+1038,Ahmed Raza,Male,,Multan,Watch,Beauty,16595,1,2024-05-20,COD,5
+1039,Kiran Noor,Female,36,Multan,Shirt,Beauty,73335,4,2024-01-10,cash,3
+1040,Sana Khan,Female,,,Makeup Kit,Beauty,24822,2,2024/02/15,Cash,
+1041,Bilal Ahmed,Female,twenty five,Islamabad,Makeup Kit,Clothing,,3,2024-05-20,cash,5
+1042,,Male,36,Lahore,Laptop,Beauty,,3,2024-01-10,,
+1043,Sara Ahmed,,21,Faisalabad,Mobile Phone,Electronics,,5,2024/02/15,card,3
+1044,Ayesha Khan,Male,43,Lahore,Shoes,Clothing,59137,5,15-03-2024,card,2
+1045,Usman Ali,Female,,Islamabad,Handbag,Clothing,26571,3,15-03-2024,cash,
+1046,Kiran Noor,Female,twenty five,Lahore,Shirt,Clothing,68218,2,2024-01-10,cash,2
+1047,Kiran Noor,,twenty five,Lahore,Headphones,Accessories,,2,2024-01-10,Card,5
+1048,Zainab Malik,Female,,Karachi,TV,Clothing,,1,2024/02/15,card,3
+1049,Ali Khan,Female,,Faisalabad,Tablet,Electronics,,5,2024/02/15,Card,5
+1050,Kiran Noor,Male,,Multan,Makeup Kit,Clothing,62098,5,2024/02/15,card,1
+1051,Zainab Malik,,,,Laptop,Beauty,43869,1,2024/02/15,COD,2
+1052,Sana Khan,Male,twenty five,Islamabad,Jewelry,Beauty,,2,2024-05-20,card,3
+1053,Hina Tariq,Male,twenty five,,Makeup Kit,Beauty,83340,4,2024-05-20,COD,2
+1054,Zainab Malik,Male,22,Faisalabad,Shoes,Electronics,68004,3,2024/02/15,,2
+1055,Zainab Malik,,43,Lahore,Jewelry,Beauty,,1,15-03-2024,COD,5
+1056,Sana Khan,Male,,Lahore,TV,Clothing,88933,5,2024-05-20,,2
+1057,Zainab Malik,,35,,Makeup Kit,Clothing,41641,5,2024-05-20,cash,2
+1058,Ahmed Raza,Female,twenty five,,Tablet,Beauty,,5,15-03-2024,Card,5
+1059,Usman Ali,,twenty five,Multan,Tablet,Beauty,32175,4,2024/02/15,cash,2
+1060,Ahmed Ali,,45,Karachi,Tablet,Accessories,11675,4,2024-05-20,,
+1061,Bilal Ahmed,,30,Faisalabad,Watch,Beauty,108694,1,2024/02/15,COD,1
+1062,Sara Ahmed,,twenty five,,Makeup Kit,Beauty,77573,5,2024-05-20,cash,
+1063,Hina Tariq,,45,,Watch,Beauty,,2,15-03-2024,,2
+1064,Kiran Noor,Male,,Multan,Laptop,Electronics,81076,5,2024/02/15,cash,4
+1065,Ahmed Ali,Male,46,Multan,Tablet,Clothing,23473,2,2024/02/15,card,1
+1066,,,,Islamabad,Headphones,Electronics,,5,2024-01-10,,5
+1067,Zainab Malik,Female,twenty five,Lahore,Mobile Phone,Accessories,68742,4,2024-05-20,Cash,2
+1068,,Male,47,Faisalabad,Mobile Phone,Beauty,95765,3,2024-05-20,COD,4
+1069,Bilal Ahmed,Female,,Lahore,Headphones,Clothing,32005,1,2024-05-20,Cash,
+1070,Ahmed Raza,,21,Karachi,Perfume,Clothing,56168,4,2024-05-20,Card,2
+1071,Kiran Noor,Male,33,Karachi,Shirt,Beauty,107896,4,15-03-2024,,5
+1072,Bilal Ahmed,Male,twenty five,Faisalabad,Laptop,Beauty,52713,2,2024/02/15,COD,
+1073,Bilal Ahmed,Female,twenty five,,Shoes,Accessories,101908,4,2024/02/15,card,1
+1074,Ayesha Khan,Male,47,Faisalabad,Jewelry,Clothing,4553,2,2024-05-20,Cash,2
+1075,Ahmed Raza,Male,43,Faisalabad,Headphones,Clothing,84945,1,15-03-2024,Card,1
+1076,Farhan Ali,Female,twenty five,Lahore,Laptop,Beauty,5677,1,15-03-2024,COD,
+1077,Hina Tariq,,,Multan,Headphones,Accessories,61779,2,15-03-2024,Cash,2
+1078,Farhan Ali,,,Lahore,Headphones,Clothing,65940,3,15-03-2024,cash,
+1079,Farhan Ali,,twenty five,Faisalabad,Laptop,Beauty,36697,4,15-03-2024,Cash,1
+1080,Bilal Ahmed,Male,,Multan,Handbag,Accessories,63547,3,2024-05-20,COD,
+1081,,Female,,Islamabad,Shoes,Beauty,61106,2,2024/02/15,,
+1082,Bilal Ahmed,,,Multan,Makeup Kit,Clothing,45730,2,2024-05-20,,5
+1083,Ahmed Raza,Female,22,Faisalabad,Jewelry,Beauty,,5,2024-01-10,Cash,2
+1084,Usman Ali,,twenty five,,Shoes,Clothing,,2,2024-01-10,card,4
+1085,Ahmed Ali,Female,47,Faisalabad,TV,Accessories,105462,5,2024-01-10,COD,
+1086,Bilal Ahmed,Male,,Karachi,Headphones,Clothing,22761,3,15-03-2024,Card,3
+1087,Hassan Raza,Male,twenty five,Islamabad,Shoes,Beauty,5884,1,15-03-2024,COD,2
+1088,Sara Ahmed,Male,37,Karachi,Handbag,Clothing,36783,3,2024-05-20,COD,
+1089,Zainab Malik,Male,twenty five,Lahore,TV,Electronics,71342,4,15-03-2024,,3
+1090,Zainab Malik,Female,,Faisalabad,Watch,Accessories,47673,3,2024/02/15,Cash,2
+1091,Usman Ali,Female,,Karachi,Tablet,Accessories,65397,2,2024-05-20,Cash,1
+1092,Sana Khan,,24,Lahore,Perfume,Accessories,,2,2024/02/15,,5
+1093,Usman Ali,Male,,,Perfume,Electronics,25168,4,2024-01-10,COD,2
+1094,Sara Ahmed,Female,31,Faisalabad,Mobile Phone,Clothing,98076,5,15-03-2024,COD,1
+1095,Usman Ali,Female,22,,Makeup Kit,Clothing,38678,3,2024-05-20,Cash,5
+1096,,Female,,Lahore,Laptop,Accessories,40601,4,15-03-2024,cash,4
+1097,Usman Ali,Female,18,Lahore,Mobile Phone,Clothing,21387,1,2024/02/15,Cash,5
+1098,Ali Khan,Male,44,Faisalabad,Watch,Accessories,77057,4,2024-05-20,Cash,5
+1099,Ahmed Ali,Male,,Multan,Perfume,Accessories,27636,3,2024-05-20,Card,1
+1100,Ahmed Raza,,41,,Laptop,Clothing,,3,2024-01-10,,3
+1101,Ahmed Raza,Female,,,Mobile Phone,Electronics,10563,2,2024-01-10,COD,3
+1102,Kiran Noor,Female,21,Multan,Watch,Beauty,,5,2024-05-20,cash,4
+1103,Sara Ahmed,Female,36,Multan,Watch,Electronics,,2,15-03-2024,Cash,5
+1104,Hina Tariq,Male,24,Lahore,Jewelry,Clothing,43192,5,15-03-2024,,4
+1105,Ahmed Ali,Male,34,Karachi,Mobile Phone,Electronics,66392,4,2024-05-20,,2
+1106,Sara Ahmed,,21,Multan,TV,Clothing,10286,5,2024-05-20,Cash,2
+1107,Ahmed Raza,,22,Karachi,Jewelry,Clothing,74410,3,2024-01-10,COD,
+1108,Bilal Ahmed,Male,,Multan,TV,Electronics,38895,5,2024-01-10,,1
+1109,Ahmed Raza,Male,twenty five,Karachi,Laptop,Accessories,5214,3,2024-01-10,Card,1
+1110,Sana Khan,,,Lahore,Watch,Electronics,4096,3,15-03-2024,Card,1
+1111,,Male,twenty five,Multan,Shirt,Beauty,,3,2024/02/15,,2
+1112,Hassan Raza,Male,23,Karachi,Jewelry,Clothing,6942,1,15-03-2024,Cash,1
+1113,Zainab Malik,Female,50,Karachi,Shoes,Accessories,,1,2024-01-10,COD,2
+1114,Ali Khan,Female,46,,Makeup Kit,Electronics,3051,4,2024-05-20,Cash,3
+1115,Zainab Malik,,26,Lahore,Headphones,Beauty,79378,4,2024-05-20,cash,1
+1116,Ali Khan,Male,33,Multan,Laptop,Accessories,8649,2,2024/02/15,Card,
+1117,Zainab Malik,,twenty five,Karachi,Laptop,Beauty,53247,4,2024/02/15,,
+1118,Sana Khan,Female,,Faisalabad,Perfume,Clothing,47366,3,2024-05-20,Card,5
+1119,Ahmed Ali,Female,twenty five,,Jewelry,Clothing,72300,4,2024-01-10,,5
+1120,,Male,46,Lahore,Shirt,Clothing,74073,4,2024-01-10,card,4
+1121,Bilal Ahmed,Female,,,Mobile Phone,Accessories,63787,3,2024-05-20,,4
+1122,,Female,twenty five,Lahore,Jewelry,Beauty,,2,2024/02/15,Card,4
+1123,Sara Ahmed,Female,twenty five,Faisalabad,TV,Beauty,23950,1,2024-01-10,,4
+1124,Ali Khan,Male,twenty five,Lahore,Headphones,Accessories,83255,3,2024-05-20,Card,2
+1125,Ahmed Raza,Female,19,Islamabad,Headphones,Clothing,,1,2024-01-10,cash,4
+1126,Ayesha Khan,Male,50,Faisalabad,TV,Accessories,56210,2,2024/02/15,,4
+1127,Ahmed Raza,Male,48,Lahore,Tablet,Accessories,62064,2,15-03-2024,card,2
+1128,Ahmed Ali,,twenty five,Karachi,Shirt,Clothing,29822,1,2024/02/15,Card,
+1129,Kiran Noor,Male,twenty five,Multan,TV,Accessories,68189,1,2024-05-20,card,3
+1130,Usman Ali,Male,27,Lahore,Jewelry,Accessories,,5,2024-01-10,Cash,4
+1131,Farhan Ali,Male,42,Lahore,Perfume,Beauty,,1,2024-05-20,cash,3
+1132,Hina Tariq,,38,Karachi,Makeup Kit,Beauty,,2,2024/02/15,Card,2
+1133,Ayesha Khan,Male,,Lahore,Watch,Accessories,3891,2,15-03-2024,COD,5
+1134,Ahmed Ali,,twenty five,,Shoes,Accessories,,1,2024-01-10,COD,2
+1135,,Female,,Islamabad,Shirt,Accessories,66738,5,2024/02/15,cash,1
+1136,Zainab Malik,,twenty five,Islamabad,Handbag,Beauty,33382,4,2024/02/15,Cash,5
+1137,,Female,27,Karachi,TV,Electronics,,2,2024-01-10,Card,4
+1138,Bilal Ahmed,Male,twenty five,Islamabad,Jewelry,Accessories,30592,2,15-03-2024,card,
+1139,,Male,24,,Shirt,Clothing,,1,15-03-2024,COD,5
+1140,Bilal Ahmed,Male,twenty five,Lahore,Perfume,Electronics,61651,4,15-03-2024,,3
+1141,Hassan Raza,,twenty five,Multan,Laptop,Accessories,,3,2024-05-20,card,1
+1142,Sana Khan,Female,,,Handbag,Electronics,,5,2024-05-20,Cash,4
+1143,,Male,,Lahore,Handbag,Accessories,,3,2024-01-10,,3
+1144,Usman Ali,Female,36,Multan,Perfume,Electronics,68176,3,2024-01-10,cash,
+1145,Sara Ahmed,,twenty five,Multan,Shoes,Electronics,103261,1,2024-01-10,cash,
+1146,Ali Khan,Male,,Islamabad,Headphones,Beauty,84339,1,2024-05-20,card,2
+1147,,,twenty five,Karachi,Headphones,Clothing,114949,2,2024/02/15,,2
+1148,Ayesha Khan,,,Faisalabad,Handbag,Clothing,,1,15-03-2024,COD,2
+1149,Zainab Malik,Female,,,Headphones,Clothing,,3,15-03-2024,,4
+1150,Kiran Noor,Male,45,Faisalabad,Jewelry,Accessories,,2,2024/02/15,,1
+1151,Ali Khan,Female,,,Shirt,Accessories,76758,3,15-03-2024,,3
+1152,Farhan Ali,,,,Jewelry,Beauty,42687,2,2024-01-10,,1
+1153,Usman Ali,Female,twenty five,,TV,Clothing,,2,2024/02/15,Card,1
+1154,Bilal Ahmed,Male,21,Karachi,Jewelry,Clothing,13186,4,2024/02/15,card,2
+1155,Usman Ali,,50,Karachi,Laptop,Beauty,108812,2,2024/02/15,cash,4
+1156,,Female,25,Multan,Perfume,Electronics,,2,2024-01-10,,
+1157,Sara Ahmed,Female,twenty five,Islamabad,Tablet,Beauty,40446,1,2024-05-20,cash,1
+1158,Ahmed Raza,,,,Mobile Phone,Accessories,,4,2024/02/15,card,3
+1159,Usman Ali,,43,Lahore,Perfume,Accessories,,1,15-03-2024,cash,2
+1160,Bilal Ahmed,,21,Multan,Headphones,Electronics,24893,5,2024-01-10,,1
+1161,Hina Tariq,Female,20,Faisalabad,Watch,Accessories,31484,1,2024/02/15,Card,4
+1162,Farhan Ali,Male,,Karachi,Perfume,Clothing,54103,1,2024-01-10,card,2
+1163,Ali Khan,,twenty five,Multan,Tablet,Beauty,,4,15-03-2024,,
+1164,Sara Ahmed,,,Karachi,Perfume,Electronics,60496,4,2024-05-20,Card,4
+1165,Ahmed Ali,Male,,Faisalabad,Shirt,Beauty,,2,2024/02/15,COD,1
+1166,Hina Tariq,,,Multan,Mobile Phone,Beauty,,2,15-03-2024,,4
+1167,Sana Khan,Male,33,Islamabad,Handbag,Electronics,,2,2024-05-20,Card,4
+1168,Zainab Malik,Male,37,Faisalabad,Shoes,Beauty,76626,5,2024-01-10,card,
+1169,Hassan Raza,,twenty five,,Mobile Phone,Accessories,,3,2024/02/15,Cash,5
+1170,Zainab Malik,Male,twenty five,Karachi,Tablet,Beauty,83912,4,2024/02/15,COD,4
+1171,Ahmed Ali,,twenty five,Lahore,Tablet,Beauty,,2,2024-05-20,Card,4
+1172,Bilal Ahmed,Female,twenty five,Lahore,Jewelry,Clothing,62274,1,2024/02/15,Card,2
+1173,Kiran Noor,,46,Islamabad,Makeup Kit,Clothing,113957,2,2024-01-10,Card,4
+1174,Ayesha Khan,Female,twenty five,Multan,Makeup Kit,Clothing,66784,4,15-03-2024,card,4
+1175,Ali Khan,,,Lahore,Laptop,Beauty,115604,4,15-03-2024,cash,
+1176,Ahmed Ali,,twenty five,Lahore,Perfume,Electronics,10001,5,2024-05-20,Card,
+1177,Usman Ali,Female,twenty five,Multan,Perfume,Clothing,14413,1,2024/02/15,COD,4
+1178,Hina Tariq,Female,24,,Mobile Phone,Clothing,50801,5,15-03-2024,Cash,3
+1179,Hassan Raza,Female,,,Jewelry,Accessories,59773,1,2024-01-10,card,4
+1180,Ahmed Ali,Female,27,,Mobile Phone,Accessories,33920,1,2024-01-10,,2
+1181,Ayesha Khan,Female,49,Multan,TV,Accessories,56478,5,2024-01-10,Cash,4
+1182,Bilal Ahmed,,,Karachi,Laptop,Clothing,54331,5,2024/02/15,,4
+1183,Hina Tariq,,,Karachi,Headphones,Electronics,,3,2024-01-10,,
+1184,Hina Tariq,,,Lahore,Tablet,Beauty,,3,2024-01-10,card,4
+1185,Ahmed Ali,Male,,Faisalabad,Mobile Phone,Clothing,93951,5,2024/02/15,card,4
+1186,Sara Ahmed,,twenty five,Faisalabad,Mobile Phone,Electronics,,4,2024-05-20,Cash,1
+1187,Ayesha Khan,Female,twenty five,Multan,Tablet,Accessories,30232,2,2024-01-10,Card,2
+1188,Hassan Raza,,twenty five,Faisalabad,Perfume,Clothing,26079,2,2024/02/15,COD,2
+1189,Ayesha Khan,Female,,Multan,Headphones,Electronics,84801,1,2024/02/15,COD,2
+1190,Ahmed Raza,Male,44,Islamabad,Handbag,Accessories,,3,2024-05-20,cash,2
+1191,Hina Tariq,Male,twenty five,Karachi,TV,Clothing,81249,3,2024-01-10,Card,
+1192,,,47,Karachi,Jewelry,Clothing,78185,4,2024-01-10,COD,1
+1193,Ahmed Raza,,twenty five,Lahore,Laptop,Clothing,,1,15-03-2024,,4
+1194,Usman Ali,,21,Lahore,Handbag,Electronics,91357,5,2024-01-10,Cash,5
+1195,Hina Tariq,Male,twenty five,,Tablet,Beauty,,1,2024-01-10,COD,5
+1196,,Female,22,,TV,Clothing,102176,1,15-03-2024,,3
+1197,Ali Khan,,41,Karachi,Mobile Phone,Electronics,27572,3,15-03-2024,cash,1
+1198,Hina Tariq,Female,,Karachi,Shoes,Clothing,21711,1,2024-01-10,Card,3
+1199,Ayesha Khan,Male,,Faisalabad,Jewelry,Clothing,43453,4,2024-05-20,COD,1
+1200,Kiran Noor,Male,23,Faisalabad,Headphones,Accessories,65297,5,15-03-2024,card,5
+1201,Sana Khan,,twenty five,Multan,Headphones,Clothing,,4,15-03-2024,cash,4
+1202,Ayesha Khan,,twenty five,Faisalabad,TV,Beauty,,4,2024-05-20,Card,3
+1203,Ahmed Raza,Female,twenty five,Multan,Jewelry,Beauty,14427,1,2024/02/15,COD,4
+1204,Hassan Raza,Male,twenty five,Islamabad,Headphones,Accessories,4437,2,2024/02/15,cash,2
+1205,Ali Khan,Female,twenty five,Karachi,Shoes,Beauty,,1,2024-01-10,Cash,5
+1206,Ahmed Raza,Female,,Faisalabad,Handbag,Accessories,55088,4,15-03-2024,Cash,2
+1207,Sara Ahmed,Male,39,Multan,Shoes,Accessories,,2,2024/02/15,Card,
+1208,Hina Tariq,Male,twenty five,,Jewelry,Accessories,13016,2,2024/02/15,card,4
+1209,Usman Ali,Female,,Karachi,Handbag,Accessories,,5,2024-05-20,cash,1
+1210,Hassan Raza,Female,33,,Handbag,Clothing,,2,15-03-2024,COD,3
+1211,Farhan Ali,Female,46,Karachi,Mobile Phone,Beauty,40914,4,2024/02/15,cash,2
+1212,Hina Tariq,,twenty five,Faisalabad,TV,Clothing,56279,5,2024/02/15,COD,2
+1213,Ahmed Ali,Female,42,Karachi,Laptop,Accessories,24268,4,2024/02/15,Cash,4
+1214,Ayesha Khan,Male,twenty five,Karachi,Shoes,Beauty,,2,2024-01-10,cash,1
+1215,Farhan Ali,Female,twenty five,,Makeup Kit,Beauty,52394,5,15-03-2024,Card,3
+1216,Usman Ali,,twenty five,Karachi,Watch,Beauty,,1,2024-01-10,card,2
+1217,,Male,,Karachi,Tablet,Accessories,21992,2,2024-05-20,Card,4
+1218,Usman Ali,Male,18,Lahore,Handbag,Clothing,,5,2024-01-10,card,3
+1219,Zainab Malik,Female,19,Lahore,Laptop,Accessories,72299,2,15-03-2024,card,4
+1220,Ahmed Raza,Male,,,TV,Accessories,66356,5,15-03-2024,,1
+1221,Zainab Malik,,,Islamabad,Mobile Phone,Clothing,61755,4,2024/02/15,Card,3
+1222,Ali Khan,Male,37,Islamabad,Shoes,Accessories,47776,4,15-03-2024,card,
+1223,Ahmed Ali,Male,26,Karachi,Mobile Phone,Electronics,,4,2024-05-20,Cash,4
+1224,Ahmed Ali,Male,twenty five,Karachi,Watch,Accessories,16613,1,2024-01-10,card,4
+1225,Farhan Ali,,,,Tablet,Beauty,55389,5,2024-01-10,COD,1
+1226,,Male,,Faisalabad,Tablet,Electronics,87366,5,15-03-2024,card,2
+1227,Usman Ali,Female,twenty five,,Mobile Phone,Electronics,9667,5,2024-01-10,Card,3
+1228,Ali Khan,,,Multan,Shirt,Electronics,69258,2,2024/02/15,Card,4
+1229,Usman Ali,Male,24,Multan,Shirt,Clothing,114482,4,15-03-2024,cash,5
+1230,Ayesha Khan,Female,twenty five,Multan,Shirt,Beauty,35953,5,15-03-2024,COD,2
+1231,Hina Tariq,,,Faisalabad,Watch,Clothing,,4,15-03-2024,,4
+1232,Sara Ahmed,Female,twenty five,Islamabad,Mobile Phone,Accessories,,5,2024-01-10,Cash,
+1233,Hassan Raza,Female,,Islamabad,TV,Beauty,,2,2024-01-10,COD,3
+1234,,Female,twenty five,Faisalabad,Mobile Phone,Clothing,72490,5,2024-01-10,Card,4
+1235,Kiran Noor,Female,twenty five,Faisalabad,Shirt,Beauty,59965,3,2024-05-20,card,5
+1236,,Male,,Islamabad,TV,Electronics,64976,4,2024/02/15,Card,2
+1237,Ahmed Raza,,twenty five,Karachi,Handbag,Clothing,,1,2024-05-20,Cash,1
+1238,Hassan Raza,,twenty five,Lahore,Shoes,Accessories,11898,3,2024-01-10,,3
+1239,Hassan Raza,Female,,Islamabad,Headphones,Accessories,43061,3,2024-05-20,COD,
+1240,Ahmed Raza,Male,twenty five,Karachi,Jewelry,Clothing,,1,2024/02/15,cash,1
+1241,Zainab Malik,Male,twenty five,,Shoes,Clothing,16919,3,15-03-2024,Card,3
+1242,Zainab Malik,Male,27,Faisalabad,Tablet,Accessories,,4,2024-01-10,cash,
+1243,Ahmed Raza,Male,twenty five,,Handbag,Beauty,34100,5,15-03-2024,card,5
+1244,Hassan Raza,Male,34,Lahore,Shoes,Accessories,27767,5,2024/02/15,COD,5
+1245,Ali Khan,,,Lahore,Perfume,Clothing,45591,4,2024-01-10,Card,3
+1246,Usman Ali,Male,49,,Makeup Kit,Beauty,71357,4,15-03-2024,Card,2
+1247,Hina Tariq,,,Multan,Makeup Kit,Beauty,82411,2,15-03-2024,Card,2
+1248,Zainab Malik,Female,30,Karachi,Headphones,Clothing,37060,3,15-03-2024,Card,5
+1249,Ali Khan,,,Multan,Perfume,Clothing,50244,1,2024/02/15,COD,5
+1250,Hassan Raza,Male,twenty five,,Perfume,Clothing,9116,4,2024/02/15,card,2
+1251,Hassan Raza,Female,twenty five,Karachi,Perfume,Electronics,85406,4,2024-01-10,COD,2
+1252,Usman Ali,Male,,Islamabad,Shoes,Beauty,83777,4,15-03-2024,Card,5
+1253,Kiran Noor,Female,37,Multan,TV,Clothing,54566,5,2024/02/15,Card,
+1254,Sara Ahmed,,18,Karachi,Laptop,Accessories,17990,5,2024-01-10,COD,5
+1255,Hina Tariq,Male,twenty five,Faisalabad,Handbag,Clothing,,1,2024-05-20,cash,3
+1256,Sara Ahmed,Male,,,Makeup Kit,Electronics,,3,2024-05-20,card,3
+1257,Kiran Noor,,,,Jewelry,Accessories,113981,1,2024-05-20,cash,1
+1258,,Female,26,Karachi,Laptop,Electronics,42313,1,2024-05-20,,1
+1259,Ayesha Khan,,,Faisalabad,Makeup Kit,Electronics,62065,3,2024-05-20,Cash,5
+1260,Sara Ahmed,Female,40,Faisalabad,Perfume,Electronics,62542,1,2024/02/15,COD,1
+1261,Ayesha Khan,Female,27,Lahore,Makeup Kit,Accessories,,5,2024-01-10,COD,2
+1262,Farhan Ali,Female,twenty five,Multan,Laptop,Beauty,46973,2,2024-01-10,card,3
+1263,Farhan Ali,Female,30,Karachi,Tablet,Beauty,23731,1,2024-05-20,,1
+1264,Ali Khan,Female,,Islamabad,Laptop,Beauty,,1,2024/02/15,card,
+1265,Hassan Raza,Male,,Lahore,Perfume,Beauty,,1,2024-05-20,COD,
+1266,Farhan Ali,,twenty five,,Mobile Phone,Electronics,,4,2024/02/15,Cash,2
+1267,Farhan Ali,,twenty five,Multan,Mobile Phone,Clothing,100624,5,2024-01-10,,
+1268,Zainab Malik,Female,twenty five,Lahore,Makeup Kit,Electronics,16617,3,2024-05-20,card,4
+1269,Bilal Ahmed,Male,twenty five,Multan,Jewelry,Accessories,26260,3,2024-05-20,Cash,5
+1270,Usman Ali,Female,45,Faisalabad,Tablet,Beauty,20920,5,15-03-2024,Cash,2
+1271,Farhan Ali,Male,32,Faisalabad,Laptop,Accessories,22059,4,2024-01-10,card,1
+1272,Farhan Ali,Male,twenty five,Karachi,Laptop,Accessories,44366,5,2024/02/15,cash,4
+1273,Kiran Noor,Female,twenty five,Karachi,Mobile Phone,Clothing,,4,2024/02/15,COD,4
+1274,Ahmed Ali,,,Faisalabad,Watch,Beauty,81481,5,2024-05-20,card,4
+1275,Bilal Ahmed,,,Lahore,Jewelry,Electronics,82199,1,2024-01-10,,1
+1276,Sana Khan,Male,twenty five,Faisalabad,Perfume,Beauty,,3,2024-05-20,cash,3
+1277,Ahmed Raza,,47,,Tablet,Electronics,,5,15-03-2024,,4
+1278,Ahmed Raza,Female,,Lahore,Perfume,Beauty,85303,3,2024-05-20,Cash,1
+1279,,Male,twenty five,Faisalabad,Handbag,Clothing,16139,4,2024-01-10,card,4
+1280,Farhan Ali,Female,,Multan,Makeup Kit,Accessories,3271,2,15-03-2024,Cash,3
+1281,Sana Khan,,twenty five,Islamabad,Perfume,Accessories,100525,4,2024-05-20,Card,4
+1282,Ayesha Khan,,twenty five,Faisalabad,TV,Electronics,6264,4,2024-05-20,card,1
+1283,Kiran Noor,Male,31,Lahore,Laptop,Accessories,33981,5,2024/02/15,,5
+1284,Ahmed Ali,,18,Multan,Watch,Beauty,,3,2024-05-20,Card,
+1285,Kiran Noor,Male,,Islamabad,Watch,Beauty,,5,2024-01-10,COD,1
+1286,Ahmed Ali,Male,,Islamabad,Jewelry,Clothing,85777,2,2024/02/15,Card,4
+1287,Hassan Raza,Male,,Karachi,Makeup Kit,Electronics,80888,4,15-03-2024,Card,5
+1288,Bilal Ahmed,Male,34,Lahore,TV,Beauty,8560,4,2024-05-20,,2
+1289,Usman Ali,Female,,Islamabad,Handbag,Clothing,47455,1,2024/02/15,Card,2
+1290,Farhan Ali,Female,twenty five,Islamabad,Laptop,Electronics,,5,2024-05-20,Card,3
+1291,Ahmed Raza,,,Multan,TV,Beauty,44918,4,2024-05-20,Card,3
+1292,Sana Khan,Female,44,Multan,Headphones,Accessories,,1,2024-01-10,COD,
+1293,,,,Faisalabad,Laptop,Clothing,,3,2024-05-20,Cash,5
+1294,Ali Khan,,35,Karachi,Perfume,Electronics,55107,3,2024-01-10,cash,4
+1295,Sara Ahmed,Male,39,Islamabad,Perfume,Clothing,,3,2024-01-10,,2
+1296,Bilal Ahmed,,34,Islamabad,Headphones,Beauty,67268,5,2024-01-10,COD,5
+1297,Hassan Raza,,twenty five,Faisalabad,Perfume,Beauty,,4,2024-05-20,cash,1
+1298,Ahmed Raza,Female,twenty five,Multan,Perfume,Clothing,102825,1,2024-01-10,,
+1299,Sana Khan,Male,,Faisalabad,Handbag,Beauty,,2,2024-01-10,Card,5
+1300,Ahmed Ali,Female,twenty five,Islamabad,Headphones,Accessories,,4,2024-05-20,Card,1
+1301,Ali Khan,Female,,Multan,Tablet,Electronics,81098,5,2024/02/15,card,5
+1302,Sara Ahmed,,,Karachi,Headphones,Clothing,65380,3,2024-05-20,Card,4
+1303,Ali Khan,Female,,Lahore,Makeup Kit,Accessories,25935,5,2024-01-10,COD,4
+1304,Ahmed Raza,Female,twenty five,Lahore,TV,Accessories,41500,1,2024-01-10,cash,1
+1305,Ali Khan,Male,20,Faisalabad,Shirt,Beauty,41143,3,2024/02/15,card,3
+1306,Kiran Noor,Female,twenty five,Faisalabad,Watch,Beauty,107471,3,2024-01-10,cash,4
+1307,Kiran Noor,Female,twenty five,Karachi,TV,Clothing,78389,3,2024-05-20,card,1
+1308,Sara Ahmed,Female,twenty five,,Mobile Phone,Beauty,,5,15-03-2024,cash,1
+1309,Bilal Ahmed,Female,twenty five,Faisalabad,Shirt,Beauty,23599,3,15-03-2024,COD,4
+1310,Usman Ali,Male,,Faisalabad,Laptop,Electronics,54454,2,2024/02/15,Cash,3
+1311,Kiran Noor,,twenty five,,Mobile Phone,Electronics,,2,2024/02/15,Card,2
+1312,Ayesha Khan,Female,48,Karachi,Tablet,Accessories,47161,1,2024/02/15,Cash,1
+1313,,,33,Multan,Shirt,Electronics,55660,1,15-03-2024,Card,3
+1314,Sara Ahmed,Female,,Karachi,Headphones,Clothing,11672,4,2024-01-10,cash,
+1315,Ahmed Ali,,33,Faisalabad,Shirt,Beauty,115024,2,15-03-2024,cash,4
+1316,Ahmed Ali,Male,twenty five,Faisalabad,Perfume,Accessories,37882,1,2024-05-20,cash,1
+1317,Kiran Noor,Female,twenty five,Multan,Jewelry,Clothing,,4,2024/02/15,Cash,4
+1318,Bilal Ahmed,,,Multan,Jewelry,Clothing,,2,2024-05-20,card,2
+1319,Sara Ahmed,Male,,Islamabad,Laptop,Beauty,33677,5,2024-01-10,,5
+1320,Ahmed Ali,Female,,Multan,TV,Accessories,99067,5,2024-01-10,,1
+1321,Ahmed Ali,Male,,Faisalabad,Perfume,Electronics,,3,2024-01-10,Cash,4
+1322,Sara Ahmed,Male,,Karachi,Shoes,Beauty,,1,2024/02/15,Cash,5
+1323,Ahmed Ali,Female,,Lahore,TV,Electronics,,4,2024-05-20,cash,1
+1324,Ali Khan,,,,Jewelry,Beauty,101294,5,2024-05-20,Card,4
+1325,Ali Khan,Female,48,Faisalabad,Makeup Kit,Accessories,80576,4,15-03-2024,Cash,
+1326,Ali Khan,Female,28,,Mobile Phone,Clothing,,5,2024-01-10,cash,4
+1327,Usman Ali,Female,,Faisalabad,Tablet,Beauty,,1,15-03-2024,Cash,4
+1328,Usman Ali,Female,,Karachi,Watch,Clothing,5443,1,2024-05-20,,4
+1329,Hina Tariq,Male,35,Islamabad,Laptop,Clothing,,4,2024-01-10,COD,
+1330,Usman Ali,Female,38,Islamabad,Watch,Beauty,40615,4,2024/02/15,card,3
+1331,Sana Khan,Male,twenty five,Multan,Shirt,Clothing,99537,2,2024/02/15,Cash,4
+1332,Ahmed Ali,Female,21,Multan,Watch,Beauty,58018,2,2024-05-20,COD,3
+1333,Sana Khan,Male,twenty five,Faisalabad,Makeup Kit,Accessories,,4,2024/02/15,,1
+1334,Bilal Ahmed,Female,twenty five,,Jewelry,Accessories,97987,5,15-03-2024,COD,
+1335,,Female,35,Karachi,Tablet,Electronics,,4,2024/02/15,card,3
+1336,Sara Ahmed,Female,twenty five,Multan,TV,Beauty,,4,2024-01-10,COD,4
+1337,Kiran Noor,,41,Multan,TV,Accessories,23914,3,15-03-2024,Cash,1
+1338,Sana Khan,,twenty five,Faisalabad,Headphones,Electronics,42250,3,2024-05-20,cash,3
+1339,Ahmed Raza,Female,,Faisalabad,Shirt,Beauty,,1,2024-01-10,,
+1340,Ahmed Raza,,28,Faisalabad,Watch,Accessories,21742,4,2024-01-10,,1
+1341,Ayesha Khan,Male,43,,Perfume,Clothing,,3,2024-05-20,Card,2
+1342,Hina Tariq,,21,Multan,Shoes,Electronics,,4,2024-05-20,card,5
+1343,Usman Ali,,twenty five,Multan,Laptop,Beauty,21559,2,2024/02/15,Cash,3
+1344,Ayesha Khan,Male,28,Lahore,Tablet,Accessories,60391,3,2024-05-20,Card,4
+1345,Sana Khan,Male,44,Multan,Perfume,Accessories,100630,3,2024-05-20,COD,4
+1346,Ahmed Ali,,30,Multan,Handbag,Clothing,65685,4,2024/02/15,,
+1347,Bilal Ahmed,Female,twenty five,Multan,Shirt,Accessories,,2,2024-01-10,,4
+1348,Ahmed Raza,Male,,Lahore,Watch,Clothing,114248,3,2024/02/15,Card,1
+1349,Farhan Ali,Female,,Multan,Handbag,Clothing,,4,2024/02/15,,1
+1350,Sana Khan,,30,Multan,Watch,Clothing,32201,4,15-03-2024,COD,3
+1351,Bilal Ahmed,Male,29,Lahore,Headphones,Accessories,,2,2024-05-20,card,2
+1352,Usman Ali,Male,,Lahore,Watch,Clothing,81082,2,2024/02/15,,2
+1353,Sana Khan,Female,,Lahore,Makeup Kit,Beauty,32357,5,2024/02/15,,3
+1354,Usman Ali,Male,,Faisalabad,Laptop,Accessories,,2,2024/02/15,,4
+1355,Ali Khan,,,Islamabad,Shoes,Accessories,5405,4,15-03-2024,COD,4
+1356,Kiran Noor,,twenty five,Faisalabad,Handbag,Clothing,,4,2024-05-20,Cash,4
+1357,Bilal Ahmed,Male,,Islamabad,Shirt,Clothing,59738,4,2024-01-10,card,4
+1358,,,,Islamabad,Laptop,Electronics,12453,2,2024-05-20,,4
+1359,Ahmed Ali,,27,Islamabad,Jewelry,Electronics,76356,3,15-03-2024,Cash,2
+1360,Ahmed Ali,,twenty five,Islamabad,Jewelry,Accessories,,3,15-03-2024,,2
+1361,Ahmed Raza,,36,Karachi,Laptop,Beauty,4971,1,2024-01-10,cash,5
+1362,Hassan Raza,Male,,Faisalabad,Tablet,Accessories,102165,5,2024-01-10,,4
+1363,Ahmed Ali,Female,41,Karachi,Makeup Kit,Electronics,,5,2024-05-20,Card,5
+1364,Ayesha Khan,,,Lahore,Headphones,Clothing,73930,4,2024-01-10,card,5
+1365,Farhan Ali,Male,48,Faisalabad,Perfume,Beauty,,3,15-03-2024,COD,3
+1366,Ahmed Ali,Male,50,Lahore,TV,Electronics,81396,3,2024-01-10,Card,3
+1367,Zainab Malik,Female,29,Multan,TV,Accessories,,4,15-03-2024,card,4
+1368,Sara Ahmed,,,Islamabad,Watch,Beauty,42473,2,2024-05-20,Card,3
+1369,Bilal Ahmed,,,Karachi,Jewelry,Clothing,88029,4,2024-01-10,cash,5
+1370,Ali Khan,,twenty five,Lahore,Makeup Kit,Clothing,,2,2024-01-10,Card,3
+1371,Ali Khan,,42,Faisalabad,Handbag,Electronics,39160,3,2024-05-20,,2
+1372,Sara Ahmed,,48,Lahore,Watch,Accessories,,2,2024-01-10,Card,
+1373,Ali Khan,,,Multan,Watch,Beauty,27801,5,15-03-2024,Cash,
+1374,Ahmed Ali,Female,twenty five,Karachi,Tablet,Clothing,,4,2024/02/15,COD,5
+1375,Hina Tariq,,twenty five,,Headphones,Electronics,7751,5,15-03-2024,,1
+1376,Ahmed Ali,Male,32,Lahore,Shoes,Beauty,75629,4,2024/02/15,Card,1
+1377,Bilal Ahmed,Female,,Islamabad,Headphones,Clothing,41937,3,2024-01-10,COD,3
+1378,Zainab Malik,Female,twenty five,Lahore,Makeup Kit,Clothing,86479,4,2024/02/15,Card,1
+1379,Bilal Ahmed,,33,Islamabad,Tablet,Beauty,44894,5,15-03-2024,cash,3
+1380,Ali Khan,,40,Islamabad,Shirt,Accessories,,4,2024-05-20,,3
+1381,Ali Khan,Female,,Islamabad,Shirt,Electronics,6179,5,15-03-2024,card,5
+1382,Usman Ali,Female,twenty five,Islamabad,TV,Electronics,117044,5,2024-01-10,Cash,5
+1383,,,,Lahore,Tablet,Beauty,32550,5,15-03-2024,Cash,3
+1384,Usman Ali,,32,Lahore,Handbag,Clothing,80702,3,2024-05-20,cash,
+1385,,,,Islamabad,Tablet,Clothing,106795,3,2024-01-10,Card,
+1386,Hina Tariq,,,Faisalabad,Laptop,Beauty,,5,2024/02/15,Card,5
+1387,Usman Ali,Female,,,Jewelry,Electronics,84036,5,15-03-2024,card,3
+1388,Usman Ali,,,Karachi,Handbag,Accessories,,1,15-03-2024,Card,2
+1389,Bilal Ahmed,Female,twenty five,Faisalabad,Shoes,Accessories,103719,1,2024-05-20,COD,2
+1390,Ayesha Khan,,43,Faisalabad,Tablet,Electronics,,3,2024-01-10,cash,4
+1391,Ayesha Khan,,,,Handbag,Beauty,25145,1,15-03-2024,COD,4
+1392,Ahmed Ali,Female,,Lahore,Tablet,Clothing,80069,5,2024/02/15,card,3
+1393,Ahmed Raza,Male,twenty five,Faisalabad,Mobile Phone,Beauty,,4,2024/02/15,Cash,5
+1394,Sara Ahmed,Female,,Islamabad,TV,Clothing,69637,4,2024-05-20,,5
+1395,Hassan Raza,Male,twenty five,Lahore,Perfume,Electronics,28805,3,2024-05-20,card,1
+1396,Usman Ali,Male,twenty five,Karachi,Tablet,Clothing,,1,2024/02/15,Card,4
+1397,Hina Tariq,,twenty five,Islamabad,Watch,Electronics,,1,2024/02/15,Cash,5
+1398,Kiran Noor,Male,,Multan,Headphones,Electronics,53826,3,15-03-2024,Card,1
+1399,Sara Ahmed,Male,,Karachi,Makeup Kit,Accessories,84347,3,2024/02/15,COD,3
+1400,,Female,38,Lahore,Tablet,Electronics,110295,5,15-03-2024,cash,
+1401,Ahmed Ali,Male,31,Islamabad,Makeup Kit,Beauty,61559,2,15-03-2024,Card,4
+1402,Farhan Ali,,,,Watch,Beauty,,3,2024-01-10,Card,3
+1403,Zainab Malik,Female,,Faisalabad,Shirt,Clothing,,3,15-03-2024,card,4
+1404,,,,Karachi,Shoes,Electronics,13300,5,2024/02/15,Card,4
+1405,,Male,,Islamabad,Shoes,Clothing,28546,2,2024-01-10,Card,2
+1406,Sana Khan,Female,twenty five,Karachi,Mobile Phone,Electronics,88917,2,2024-01-10,card,2
+1407,Ahmed Raza,Female,twenty five,Faisalabad,Shirt,Beauty,,5,2024-05-20,cash,2
+1408,Zainab Malik,Female,,Karachi,Shirt,Accessories,7880,1,2024/02/15,,2
+1409,Zainab Malik,,,Faisalabad,Laptop,Clothing,98654,1,15-03-2024,card,3
+1410,Sana Khan,,twenty five,,Handbag,Clothing,116036,4,2024-05-20,COD,4
+1411,Ali Khan,Male,twenty five,Faisalabad,Perfume,Electronics,113761,2,15-03-2024,COD,1
+1412,Bilal Ahmed,Male,36,Karachi,Jewelry,Clothing,,4,15-03-2024,Card,
+1413,,Male,,,Handbag,Electronics,75195,3,2024-01-10,COD,2
+1414,Ahmed Raza,,,Multan,Laptop,Accessories,80476,2,2024-01-10,cash,4
+1415,Hassan Raza,Female,,Karachi,Headphones,Accessories,53516,3,2024/02/15,COD,5
+1416,Hassan Raza,Male,23,Lahore,Headphones,Electronics,,4,2024-01-10,Cash,1
+1417,Ayesha Khan,,,Faisalabad,Handbag,Clothing,10242,5,15-03-2024,COD,1
+1418,Bilal Ahmed,,,Faisalabad,Mobile Phone,Accessories,21135,1,2024-05-20,Card,1
+1419,Usman Ali,,40,Lahore,TV,Electronics,,5,2024-05-20,Card,1
+1420,Hina Tariq,,25,Islamabad,Mobile Phone,Electronics,38193,2,2024/02/15,cash,4
+1421,Hassan Raza,Female,,Multan,Tablet,Clothing,,2,2024/02/15,card,
+1422,Ayesha Khan,Male,46,Lahore,Shoes,Beauty,,1,2024/02/15,COD,2
+1423,Ali Khan,,,Faisalabad,Handbag,Clothing,,2,15-03-2024,card,5
+1424,Zainab Malik,,27,Karachi,Handbag,Beauty,77469,1,2024-05-20,Card,3
+1425,Kiran Noor,,33,,Handbag,Electronics,,1,2024-05-20,cash,1
+1426,Sana Khan,,,,Tablet,Beauty,,5,2024/02/15,Card,4
+1427,Zainab Malik,,45,,Handbag,Clothing,57388,2,2024/02/15,Cash,1
+1428,Sara Ahmed,Female,twenty five,Faisalabad,Shoes,Beauty,,2,2024-05-20,cash,
+1429,Ahmed Raza,Female,44,Multan,Handbag,Clothing,85390,2,15-03-2024,Cash,4
+1430,Hina Tariq,Female,twenty five,Karachi,Headphones,Beauty,,5,2024/02/15,,3
+1431,Sara Ahmed,Male,23,Faisalabad,Headphones,Beauty,79016,5,15-03-2024,cash,
+1432,Hassan Raza,,,Lahore,TV,Beauty,19455,2,2024-01-10,Card,2
+1433,Ayesha Khan,,twenty five,Karachi,Perfume,Electronics,,3,2024-01-10,,3
+1434,Ahmed Ali,Male,twenty five,Lahore,Shoes,Clothing,67843,2,2024-05-20,cash,2
+1435,Zainab Malik,,32,Islamabad,Tablet,Beauty,33804,1,2024-01-10,cash,1
+1436,Hina Tariq,Female,twenty five,Karachi,Mobile Phone,Electronics,,2,15-03-2024,card,4
+1437,Sana Khan,,28,,Jewelry,Electronics,81786,1,15-03-2024,Cash,
+1438,Ahmed Ali,Female,,Lahore,Shirt,Accessories,,1,15-03-2024,COD,5
+1439,Bilal Ahmed,Female,twenty five,Faisalabad,Mobile Phone,Electronics,50700,5,2024-05-20,,3
+1440,Hassan Raza,Male,47,Multan,TV,Accessories,,2,2024/02/15,cash,
+1441,Zainab Malik,Male,19,Islamabad,Laptop,Beauty,87636,2,2024/02/15,COD,1
+1442,Ali Khan,,31,Islamabad,Watch,Beauty,,4,2024-01-10,Card,4
+1443,Hassan Raza,Female,twenty five,Multan,Laptop,Electronics,11353,1,15-03-2024,COD,3
+1444,Ali Khan,Male,20,Karachi,Shirt,Electronics,74777,3,2024-05-20,Cash,5
+1445,Zainab Malik,Male,28,Islamabad,Shirt,Electronics,85962,3,2024/02/15,Cash,1
+1446,Ahmed Raza,Male,,Islamabad,Shirt,Electronics,40718,1,2024-05-20,COD,1
+1447,Bilal Ahmed,,,,TV,Accessories,27728,5,2024-05-20,cash,
+1448,Farhan Ali,,24,Multan,TV,Accessories,17562,5,2024/02/15,cash,3
+1449,,,,Lahore,TV,Electronics,24365,5,2024-01-10,cash,3
+1450,Zainab Malik,Female,,Islamabad,Laptop,Accessories,18795,4,2024/02/15,Card,2
+1451,Sana Khan,Female,41,Faisalabad,Jewelry,Accessories,,4,15-03-2024,Card,
+1452,Farhan Ali,Male,,Islamabad,Perfume,Accessories,,5,2024/02/15,,4
+1453,,Male,,Islamabad,TV,Electronics,83642,1,15-03-2024,COD,1
+1454,Sana Khan,Female,twenty five,Multan,Perfume,Clothing,96672,3,15-03-2024,Card,
+1455,Farhan Ali,Male,,Faisalabad,Shoes,Beauty,26216,5,15-03-2024,card,4
+1456,Ahmed Ali,,27,,Mobile Phone,Clothing,68889,1,2024/02/15,cash,2
+1457,Ahmed Ali,,18,Lahore,Shoes,Accessories,5696,3,15-03-2024,,
+1458,Zainab Malik,Female,twenty five,Islamabad,Shoes,Accessories,14239,3,2024-01-10,Card,3
+1459,Ahmed Ali,Male,twenty five,Lahore,TV,Clothing,37512,2,2024-01-10,cash,
+1460,Bilal Ahmed,Male,,Lahore,Mobile Phone,Accessories,101007,3,2024-01-10,Cash,2
+1461,Zainab Malik,,twenty five,Islamabad,Shoes,Accessories,41806,3,15-03-2024,,2
+1462,Ali Khan,,,,Watch,Accessories,32775,4,2024-01-10,cash,4
+1463,Ahmed Ali,Female,,Multan,Watch,Clothing,,2,15-03-2024,Card,
+1464,Sana Khan,Female,44,Lahore,Perfume,Electronics,,5,2024/02/15,,5
+1465,,Female,40,Islamabad,Watch,Clothing,,2,2024/02/15,COD,4
+1466,Usman Ali,Male,18,Lahore,Tablet,Accessories,115776,2,15-03-2024,,3
+1467,Ali Khan,Female,46,Islamabad,Handbag,Electronics,73612,3,15-03-2024,Card,
+1468,Sana Khan,Male,,,Perfume,Clothing,,1,2024/02/15,Cash,
+1469,Ayesha Khan,,twenty five,Faisalabad,Laptop,Clothing,,5,2024-01-10,card,3
+1470,Zainab Malik,Female,twenty five,,Mobile Phone,Electronics,95435,5,2024/02/15,COD,3
+1471,Hina Tariq,,,Faisalabad,Tablet,Accessories,,4,2024-05-20,Card,5
+1472,Farhan Ali,Female,twenty five,Multan,Perfume,Clothing,77551,3,2024-05-20,Cash,4
+1473,Farhan Ali,,twenty five,Karachi,Handbag,Beauty,8248,3,2024-01-10,Card,1
+1474,Ahmed Ali,Male,twenty five,Islamabad,Tablet,Clothing,,1,2024/02/15,Card,2
+1475,Usman Ali,Female,20,Islamabad,Handbag,Beauty,9191,5,2024/02/15,Cash,2
+1476,Usman Ali,Female,49,Lahore,Tablet,Accessories,,1,2024-01-10,,5
+1477,Hassan Raza,,,Faisalabad,Laptop,Beauty,,3,2024-05-20,card,
+1478,Usman Ali,,41,Multan,Handbag,Clothing,,4,15-03-2024,card,1
+1479,Kiran Noor,,,,Makeup Kit,Accessories,18632,5,2024/02/15,Cash,2
+1480,Bilal Ahmed,Female,twenty five,Faisalabad,Mobile Phone,Beauty,,4,2024/02/15,Cash,
+1481,Hina Tariq,Female,twenty five,Karachi,Tablet,Electronics,,3,2024-01-10,card,
+1482,Sara Ahmed,,31,Multan,Handbag,Beauty,84377,3,2024/02/15,card,3
+1483,Ali Khan,Female,twenty five,Lahore,TV,Clothing,63141,5,2024-05-20,Card,5
+1484,Ahmed Ali,,27,,Handbag,Accessories,119779,3,2024-05-20,cash,
+1485,Usman Ali,,twenty five,Karachi,Shoes,Accessories,11009,3,2024/02/15,card,1
+1486,Ahmed Ali,Female,,Faisalabad,Shirt,Clothing,25266,1,2024-05-20,COD,2
+1487,Sara Ahmed,,,Multan,Handbag,Electronics,32320,4,2024-01-10,card,1
+1488,Usman Ali,Male,twenty five,Multan,Headphones,Clothing,,4,2024/02/15,cash,2
+1489,Ahmed Raza,,,Lahore,Headphones,Beauty,,3,2024-05-20,Card,1
+1490,Bilal Ahmed,Male,,Karachi,Laptop,Accessories,,1,2024-05-20,cash,
+1491,Kiran Noor,Female,29,Faisalabad,Perfume,Electronics,89215,3,15-03-2024,COD,5
+1492,Hina Tariq,,,Multan,Mobile Phone,Electronics,,5,2024-01-10,card,3
+1493,Ali Khan,,,Multan,Headphones,Beauty,,1,2024-05-20,COD,5
+1494,Sara Ahmed,,,Multan,Jewelry,Clothing,50963,5,15-03-2024,COD,5
+1495,Usman Ali,,twenty five,Multan,Mobile Phone,Clothing,24659,3,2024-01-10,,5
+1496,Sara Ahmed,Male,,Multan,Handbag,Clothing,45946,1,15-03-2024,Card,3
+1497,Hina Tariq,Male,twenty five,,Headphones,Electronics,44588,2,2024-01-10,COD,1
+1498,,,35,Islamabad,Perfume,Electronics,18825,2,2024-05-20,cash,5
+1499,Kiran Noor,Male,twenty five,Islamabad,Watch,Electronics,71501,4,15-03-2024,cash,
+1500,Bilal Ahmed,Female,,Multan,Shoes,Clothing,115449,1,2024-01-10,Cash,5
+1501,Hina Tariq,,34,Karachi,Shirt,Accessories,,3,2024/02/15,cash,
+1502,Usman Ali,,,Multan,TV,Clothing,30138,3,15-03-2024,cash,4
+1503,Hina Tariq,Male,twenty five,Lahore,Shirt,Beauty,,5,15-03-2024,,5
+1504,Sana Khan,,,Karachi,Handbag,Electronics,,5,2024-01-10,Cash,4
+1505,Kiran Noor,Female,32,Lahore,Shirt,Clothing,60306,1,2024-05-20,Card,3
+1506,,Female,,Multan,Perfume,Clothing,8345,1,2024-01-10,,4
+1507,Ahmed Raza,,,Multan,Mobile Phone,Electronics,,4,15-03-2024,Cash,1
+1508,Ali Khan,Female,,Faisalabad,Headphones,Electronics,,3,2024/02/15,card,
+1509,Ayesha Khan,,32,Karachi,TV,Electronics,21612,2,2024-05-20,,
+1510,Bilal Ahmed,Male,31,Multan,Handbag,Clothing,,3,2024-05-20,cash,3
+1511,Ahmed Ali,,twenty five,Lahore,TV,Electronics,16128,3,2024/02/15,Card,1
+1512,Sana Khan,,twenty five,Karachi,TV,Clothing,9785,2,2024/02/15,COD,2
+1513,Zainab Malik,Female,22,Karachi,Watch,Accessories,49953,3,2024-05-20,cash,
+1514,Kiran Noor,Female,,Lahore,Tablet,Accessories,39638,1,2024-01-10,cash,1
+1515,Usman Ali,Male,twenty five,,TV,Beauty,43768,1,2024-01-10,,3
+1516,Ayesha Khan,Female,,Lahore,Shirt,Beauty,,2,15-03-2024,Cash,2
+1517,Ayesha Khan,,twenty five,Multan,Mobile Phone,Beauty,,4,2024/02/15,cash,
+1518,Sara Ahmed,Male,,Islamabad,Tablet,Beauty,37645,5,2024-05-20,Cash,4
+1519,,Male,twenty five,,Shoes,Beauty,43330,3,2024-05-20,card,4
+1520,Sana Khan,Female,,Faisalabad,Shirt,Clothing,,2,2024-05-20,Cash,3
+1521,Zainab Malik,,,Lahore,TV,Beauty,28346,5,2024-05-20,card,3
+1522,Hassan Raza,Male,twenty five,,Shoes,Beauty,77016,3,2024-01-10,card,2
+1523,Sara Ahmed,Male,20,Multan,Shoes,Clothing,12478,1,15-03-2024,,2
+1524,Ahmed Raza,Female,,Islamabad,Watch,Clothing,,3,2024-01-10,Cash,4
+1525,Zainab Malik,Male,twenty five,Faisalabad,Jewelry,Beauty,24492,4,2024-05-20,cash,1
+1526,,,,Islamabad,Watch,Clothing,87048,3,15-03-2024,COD,2
+1527,Hina Tariq,,twenty five,Faisalabad,Shirt,Accessories,50432,5,2024/02/15,cash,3
+1528,Ahmed Raza,Male,twenty five,Lahore,Shirt,Clothing,62998,4,2024-05-20,card,2
+1529,Ahmed Ali,,,Karachi,Perfume,Electronics,,5,2024-05-20,COD,2
+1530,Ali Khan,Male,twenty five,Lahore,Mobile Phone,Accessories,29426,2,15-03-2024,Cash,4
+1531,Usman Ali,,28,Multan,Shirt,Accessories,,4,2024/02/15,Card,1
+1532,Hassan Raza,Female,twenty five,Faisalabad,Makeup Kit,Electronics,116679,3,2024-05-20,cash,
+1533,Bilal Ahmed,Female,twenty five,Faisalabad,TV,Clothing,61434,1,2024-05-20,Card,4
+1534,Kiran Noor,,,,Shirt,Electronics,17076,3,2024-05-20,COD,1
+1535,,,,Islamabad,Mobile Phone,Beauty,4609,5,2024-05-20,,1
+1536,Ahmed Ali,,,Multan,Perfume,Beauty,11542,4,2024-01-10,Card,3
+1537,Ahmed Raza,,46,Lahore,Shoes,Accessories,74641,2,2024/02/15,Card,
+1538,Kiran Noor,Male,twenty five,Lahore,Shoes,Beauty,84608,4,2024/02/15,Card,1
+1539,Hassan Raza,Male,,Lahore,Mobile Phone,Electronics,,4,2024-01-10,,5
+1540,Zainab Malik,Male,twenty five,Islamabad,Handbag,Clothing,,5,15-03-2024,,5
+1541,Farhan Ali,Male,,,Shirt,Accessories,91031,2,2024/02/15,cash,3
+1542,Ali Khan,Male,22,Islamabad,Shoes,Accessories,27116,4,2024-05-20,card,5
+1543,Kiran Noor,Male,twenty five,Lahore,Makeup Kit,Accessories,114628,5,2024/02/15,Cash,2
+1544,Ahmed Raza,Male,,Faisalabad,Perfume,Accessories,45413,4,2024-01-10,card,1
+1545,Kiran Noor,Female,32,Faisalabad,Makeup Kit,Clothing,,2,2024-05-20,cash,1
+1546,Zainab Malik,Female,twenty five,Islamabad,Jewelry,Electronics,83761,4,2024-01-10,cash,4
+1547,,,twenty five,Faisalabad,Watch,Beauty,57237,1,2024-05-20,Card,1
+1548,Sana Khan,Male,twenty five,Islamabad,Perfume,Beauty,8504,5,2024-01-10,COD,1
+1549,Sana Khan,,18,Karachi,Headphones,Electronics,,2,2024-01-10,,5
+1550,,Male,19,,Watch,Accessories,19666,5,15-03-2024,cash,3
+1551,Zainab Malik,Male,,Karachi,Headphones,Beauty,,4,2024-01-10,card,1
+1552,Ahmed Raza,,twenty five,,Mobile Phone,Accessories,69601,5,15-03-2024,card,4
+1553,Sana Khan,Male,twenty five,Faisalabad,Laptop,Beauty,31532,1,2024-01-10,cash,1
+1554,Hina Tariq,Male,twenty five,Lahore,Shoes,Accessories,71746,3,2024/02/15,Card,3
+1555,Farhan Ali,,48,Lahore,Shoes,Clothing,62115,3,2024-05-20,COD,5
+1556,,,,Islamabad,TV,Clothing,,1,2024/02/15,Card,5
+1557,Hina Tariq,Male,,Karachi,Perfume,Electronics,9990,3,15-03-2024,,5
+1558,Usman Ali,Female,,Lahore,Handbag,Accessories,3297,1,15-03-2024,Cash,2
+1559,Sana Khan,,twenty five,Islamabad,Mobile Phone,Electronics,,5,2024-01-10,Card,4
+1560,,Male,twenty five,Karachi,TV,Beauty,70392,4,15-03-2024,cash,4
+1561,Ahmed Ali,,twenty five,Karachi,Tablet,Beauty,18212,3,2024-01-10,Cash,1
+1562,Sara Ahmed,Male,,Lahore,Handbag,Accessories,7528,5,2024-05-20,cash,3
+1563,Sara Ahmed,,twenty five,Lahore,Watch,Electronics,31104,3,2024-05-20,COD,2
+1564,Usman Ali,Male,,Lahore,Laptop,Clothing,,1,2024-01-10,cash,
+1565,Kiran Noor,Female,twenty five,Islamabad,Laptop,Beauty,,2,15-03-2024,cash,5
+1566,Ayesha Khan,Male,twenty five,,TV,Accessories,66848,4,2024/02/15,Card,4
+1567,Kiran Noor,Female,42,Faisalabad,TV,Clothing,86726,3,2024-05-20,cash,1
+1568,Hassan Raza,Female,twenty five,Faisalabad,Perfume,Beauty,13438,5,2024/02/15,Card,5
+1569,Kiran Noor,Female,twenty five,Multan,Handbag,Electronics,,3,15-03-2024,,
+1570,Ahmed Ali,,,Lahore,Handbag,Clothing,75271,3,2024-05-20,,4
+1571,,,,Faisalabad,Shoes,Accessories,79819,2,15-03-2024,COD,3
+1572,Usman Ali,Male,twenty five,Multan,Watch,Beauty,,1,15-03-2024,cash,2
+1573,Ayesha Khan,Female,36,Islamabad,Tablet,Beauty,,3,2024-01-10,card,4
+1574,Usman Ali,Male,twenty five,Lahore,Jewelry,Clothing,71884,1,2024-01-10,card,4
+1575,Farhan Ali,Female,,Karachi,TV,Clothing,90696,4,2024-05-20,Cash,2
+1576,Usman Ali,Female,twenty five,Lahore,Perfume,Electronics,58787,3,2024-01-10,Card,5
+1577,Ahmed Ali,Male,twenty five,,Jewelry,Accessories,34770,2,2024/02/15,COD,
+1578,Ayesha Khan,,twenty five,Faisalabad,Headphones,Beauty,,5,15-03-2024,Cash,3
+1579,Sana Khan,Female,23,Islamabad,Shoes,Accessories,1304,5,2024-05-20,Card,1
+1580,Usman Ali,Female,32,Islamabad,Perfume,Clothing,46580,4,2024/02/15,Card,2
+1581,Hina Tariq,,,Lahore,Headphones,Electronics,40794,3,2024/02/15,,5
+1582,Ahmed Ali,,,Karachi,Headphones,Electronics,55973,5,2024/02/15,cash,2
+1583,Ali Khan,Male,twenty five,Karachi,Watch,Electronics,42994,4,15-03-2024,Cash,
+1584,Usman Ali,Female,twenty five,,Jewelry,Accessories,18333,1,15-03-2024,card,2
+1585,Hina Tariq,,,Lahore,Makeup Kit,Clothing,76237,4,2024-05-20,Cash,1
+1586,Ahmed Ali,,,Islamabad,Shoes,Accessories,96486,1,2024-05-20,cash,
+1587,Kiran Noor,Female,,,Mobile Phone,Clothing,89091,3,2024-01-10,COD,
+1588,Farhan Ali,Female,50,Karachi,Shirt,Beauty,,5,2024/02/15,COD,
+1589,Ayesha Khan,Female,,Karachi,Tablet,Beauty,5431,1,2024/02/15,cash,1
+1590,Bilal Ahmed,Male,,,Shoes,Electronics,91627,4,15-03-2024,,3
+1591,Ali Khan,Male,twenty five,Karachi,Jewelry,Accessories,74582,1,2024/02/15,Card,
+1592,,Female,twenty five,Lahore,Handbag,Beauty,44683,4,2024/02/15,COD,2
+1593,Bilal Ahmed,,twenty five,,Headphones,Beauty,14580,4,2024-05-20,Cash,2
+1594,Bilal Ahmed,Female,40,Lahore,Tablet,Accessories,,1,2024-01-10,cash,
+1595,Ayesha Khan,Male,twenty five,Islamabad,Tablet,Accessories,,3,2024/02/15,COD,2
+1596,Sana Khan,Male,,Lahore,Mobile Phone,Accessories,,2,2024-05-20,Card,5
+1597,Hina Tariq,Male,30,Islamabad,Makeup Kit,Beauty,84332,4,15-03-2024,card,
+1598,Farhan Ali,Male,twenty five,Lahore,Shirt,Clothing,6011,2,2024/02/15,,4
+1599,Hina Tariq,Female,,Lahore,Jewelry,Accessories,59692,4,2024-01-10,cash,
+1600,Ali Khan,Female,twenty five,Islamabad,Handbag,Clothing,80121,5,2024/02/15,COD,5
+1601,Ali Khan,,,,Mobile Phone,Clothing,56500,4,2024-05-20,Cash,1
+1602,,Male,twenty five,Multan,Jewelry,Electronics,,3,2024/02/15,card,1
+1603,Farhan Ali,,twenty five,Karachi,Perfume,Beauty,,3,2024-01-10,,
+1604,Hassan Raza,,45,Karachi,Jewelry,Accessories,37595,5,15-03-2024,Cash,
+1605,,,twenty five,Lahore,Mobile Phone,Accessories,,3,2024/02/15,Cash,1
+1606,Usman Ali,Male,42,Karachi,Shirt,Clothing,,5,15-03-2024,Cash,3
+1607,Sara Ahmed,,,Islamabad,TV,Accessories,,5,2024-05-20,cash,1
+1608,,Male,43,Karachi,Jewelry,Accessories,98831,5,15-03-2024,Cash,4
+1609,Sana Khan,Female,twenty five,Karachi,Watch,Accessories,29140,3,2024-05-20,COD,1
+1610,Bilal Ahmed,,37,Lahore,Perfume,Electronics,,2,2024-01-10,cash,5
+1611,Hassan Raza,Female,50,Faisalabad,Watch,Accessories,116379,5,2024-01-10,card,5
+1612,Usman Ali,Male,35,Islamabad,Shirt,Electronics,70481,2,2024-01-10,cash,1
+1613,Usman Ali,,twenty five,Lahore,Handbag,Clothing,76298,4,2024-01-10,Card,5
+1614,Ayesha Khan,Male,,Lahore,Headphones,Beauty,,1,2024-01-10,Card,1
+1615,Farhan Ali,Male,twenty five,,TV,Accessories,77386,4,2024-01-10,Cash,1
+1616,Ayesha Khan,,,Faisalabad,Handbag,Beauty,19284,5,15-03-2024,COD,
+1617,Bilal Ahmed,,25,Faisalabad,Perfume,Electronics,,2,15-03-2024,,4
+1618,Hina Tariq,Female,twenty five,Lahore,Makeup Kit,Beauty,80404,1,2024-01-10,card,1
+1619,Ali Khan,,twenty five,Lahore,Handbag,Beauty,59812,1,2024/02/15,Card,3
+1620,Ayesha Khan,Female,33,Faisalabad,Mobile Phone,Electronics,46022,3,2024-05-20,Card,2
+1621,Ali Khan,Female,38,Faisalabad,Jewelry,Accessories,,5,2024-05-20,Cash,4
+1622,Hassan Raza,Male,31,Faisalabad,Perfume,Clothing,30664,4,2024/02/15,Cash,2
+1623,Farhan Ali,Male,46,,Shoes,Clothing,53247,3,2024/02/15,cash,1
+1624,Hina Tariq,Female,18,Multan,Laptop,Clothing,27917,4,2024-01-10,COD,4
+1625,Hina Tariq,,,Multan,Watch,Clothing,40699,5,2024/02/15,COD,5
+1626,Usman Ali,,48,,Tablet,Electronics,30620,4,15-03-2024,COD,3
+1627,Ahmed Raza,Female,49,Islamabad,Tablet,Accessories,32277,3,15-03-2024,,4
+1628,Zainab Malik,Male,twenty five,Multan,TV,Accessories,23163,3,15-03-2024,Cash,1
+1629,Sara Ahmed,,,Karachi,Headphones,Electronics,,2,2024-05-20,card,5
+1630,Ali Khan,Male,28,Karachi,Tablet,Electronics,,1,2024-01-10,card,3
+1631,Ayesha Khan,Female,twenty five,Faisalabad,Headphones,Clothing,,5,2024/02/15,,3
+1632,Ayesha Khan,,,Multan,Headphones,Accessories,81245,3,15-03-2024,card,3
+1633,Bilal Ahmed,Female,46,Karachi,Perfume,Clothing,,2,15-03-2024,Cash,5
+1634,Ayesha Khan,Female,twenty five,Islamabad,Watch,Accessories,,3,2024-05-20,card,4
+1635,Zainab Malik,Female,44,Islamabad,Watch,Clothing,119739,1,2024-05-20,,3
+1636,Ahmed Ali,Female,,Faisalabad,Shoes,Accessories,38010,2,2024/02/15,,5
+1637,Usman Ali,Female,30,Lahore,Mobile Phone,Electronics,85015,2,2024-01-10,card,2
+1638,Bilal Ahmed,,twenty five,Lahore,Makeup Kit,Accessories,,2,2024-01-10,card,4
+1639,Farhan Ali,,twenty five,Lahore,Headphones,Beauty,,4,2024-05-20,Card,5
+1640,Sana Khan,,20,Islamabad,Perfume,Accessories,,2,2024/02/15,COD,
+1641,Sara Ahmed,Male,22,,Laptop,Beauty,15666,2,2024-05-20,,1
+1642,Kiran Noor,,,Lahore,Shoes,Beauty,,3,2024/02/15,cash,5
+1643,Sara Ahmed,,twenty five,Lahore,Shirt,Accessories,56989,4,2024/02/15,COD,1
+1644,Usman Ali,Female,twenty five,Multan,Headphones,Clothing,,5,15-03-2024,card,
+1645,Ahmed Ali,Female,twenty five,,Laptop,Clothing,,3,2024/02/15,,2
+1646,Ali Khan,Male,,,Makeup Kit,Electronics,41672,1,15-03-2024,,4
+1647,Bilal Ahmed,,twenty five,Multan,Perfume,Accessories,50031,3,2024-01-10,Cash,2
+1648,Sana Khan,Female,46,Islamabad,Laptop,Electronics,71823,1,2024-05-20,,4
+1649,Bilal Ahmed,Female,,,Shirt,Beauty,29619,4,2024/02/15,Cash,4
+1650,Sana Khan,Male,twenty five,Islamabad,Shirt,Electronics,107035,2,15-03-2024,Card,5
+1651,,Female,twenty five,Lahore,Shoes,Electronics,,5,2024-05-20,COD,3
+1652,Ahmed Ali,,,Islamabad,Tablet,Beauty,,3,2024-05-20,cash,2
+1653,Hina Tariq,,twenty five,Islamabad,Mobile Phone,Accessories,,5,2024/02/15,Card,5
+1654,Kiran Noor,,28,Islamabad,Shoes,Accessories,81550,4,2024/02/15,COD,3
+1655,Farhan Ali,,41,Multan,Makeup Kit,Electronics,50216,3,2024-01-10,Cash,2
+1656,Ayesha Khan,Male,41,Faisalabad,Tablet,Accessories,,3,2024/02/15,Card,1
+1657,Sara Ahmed,Male,twenty five,Lahore,Headphones,Electronics,94722,3,2024-01-10,cash,4
+1658,Hina Tariq,,,Multan,Jewelry,Beauty,111378,1,2024/02/15,cash,3
+1659,Ayesha Khan,Male,,Islamabad,Jewelry,Clothing,,3,2024-01-10,cash,3
+1660,Sara Ahmed,Female,42,Multan,Headphones,Beauty,35854,3,2024-05-20,Cash,3
+1661,Kiran Noor,,twenty five,Lahore,Handbag,Beauty,,5,2024-01-10,COD,1
+1662,Bilal Ahmed,Female,twenty five,Lahore,Perfume,Clothing,,2,2024-01-10,COD,1
+1663,Usman Ali,Female,,Islamabad,Shirt,Beauty,80760,4,15-03-2024,,4
+1664,Ahmed Raza,,,Faisalabad,Handbag,Accessories,,3,2024/02/15,Card,
+1665,Bilal Ahmed,Male,twenty five,Karachi,Shirt,Beauty,51556,2,2024-01-10,,4
+1666,Bilal Ahmed,Male,37,Multan,Watch,Clothing,21486,3,15-03-2024,Card,4
+1667,Kiran Noor,,31,,Perfume,Beauty,,5,15-03-2024,cash,
+1668,Farhan Ali,Female,twenty five,,Shoes,Clothing,,5,2024-05-20,card,2
+1669,Ali Khan,Male,,Multan,Headphones,Accessories,,3,2024-05-20,,5
+1670,Sara Ahmed,Male,,Lahore,Watch,Beauty,91735,5,2024-05-20,COD,1
+1671,Ayesha Khan,Male,,,Watch,Clothing,29246,5,2024-05-20,Cash,4
+1672,,,,,Shoes,Accessories,78366,3,2024-05-20,card,3
+1673,Kiran Noor,Female,22,,Handbag,Accessories,2672,3,2024-01-10,Card,2
+1674,Hassan Raza,Female,twenty five,Karachi,Makeup Kit,Clothing,,3,2024-05-20,cash,4
+1675,Hina Tariq,Female,,,Perfume,Beauty,100346,1,2024-01-10,COD,2
+1676,Kiran Noor,,twenty five,Lahore,Jewelry,Clothing,32499,4,2024/02/15,,5
+1677,Bilal Ahmed,Female,42,Faisalabad,TV,Accessories,73980,1,2024/02/15,Cash,5
+1678,Sana Khan,,,,Handbag,Accessories,92536,3,15-03-2024,COD,4
+1679,Bilal Ahmed,Female,39,Faisalabad,Headphones,Accessories,62229,4,15-03-2024,Cash,5
+1680,Bilal Ahmed,Female,twenty five,Lahore,Jewelry,Electronics,18115,1,2024-05-20,card,3
+1681,Sara Ahmed,Male,,Faisalabad,Tablet,Accessories,,5,2024-01-10,cash,4
+1682,Ayesha Khan,Female,twenty five,Karachi,Laptop,Electronics,70096,4,15-03-2024,cash,5
+1683,Zainab Malik,,twenty five,Lahore,Handbag,Electronics,63591,4,15-03-2024,Card,2
+1684,Kiran Noor,,twenty five,Faisalabad,Handbag,Beauty,61805,5,2024-05-20,COD,2
+1685,Kiran Noor,Female,,,Tablet,Clothing,32095,5,2024-01-10,card,1
+1686,,Male,twenty five,Lahore,Handbag,Accessories,,2,15-03-2024,COD,3
+1687,Sana Khan,,26,Faisalabad,Laptop,Clothing,,4,2024/02/15,Cash,4
+1688,Ahmed Ali,,,Faisalabad,Shoes,Clothing,38979,5,2024/02/15,cash,
+1689,Hina Tariq,,,Faisalabad,Tablet,Electronics,62216,4,15-03-2024,Card,3
+1690,,Male,46,Islamabad,Tablet,Electronics,25698,5,2024-05-20,COD,1
+1691,Sana Khan,Male,37,,Makeup Kit,Beauty,89392,5,15-03-2024,card,2
+1692,Sana Khan,Female,40,Faisalabad,Shirt,Clothing,35725,2,2024/02/15,Cash,5
+1693,Hassan Raza,,,Multan,Laptop,Clothing,15243,2,2024-01-10,cash,3
+1694,Ahmed Ali,Male,25,Multan,Perfume,Beauty,115114,2,2024-01-10,COD,3
+1695,,Female,,Karachi,Mobile Phone,Accessories,23386,2,2024-05-20,card,3
+1696,Sana Khan,,,Multan,TV,Clothing,22593,5,2024-01-10,Cash,1
+1697,Ayesha Khan,,twenty five,Lahore,Mobile Phone,Electronics,38741,4,2024-05-20,cash,5
+1698,Zainab Malik,Female,27,Lahore,Perfume,Clothing,,4,2024-05-20,Cash,1
+1699,,Female,,Lahore,Watch,Beauty,50151,4,2024/02/15,,3
+1700,Usman Ali,,39,Islamabad,Jewelry,Electronics,,4,2024-01-10,COD,5
+1701,Ali Khan,Male,,Islamabad,Mobile Phone,Accessories,19742,2,2024-01-10,Cash,3
+1702,Sara Ahmed,Female,46,,Headphones,Accessories,21421,5,2024/02/15,card,3
+1703,Ali Khan,,twenty five,Lahore,Shoes,Clothing,79329,3,2024-05-20,cash,3
+1704,Kiran Noor,,twenty five,,Shirt,Clothing,84055,2,2024-05-20,Cash,4
+1705,Farhan Ali,Female,36,Multan,Shoes,Accessories,17281,5,2024-05-20,,4
+1706,Farhan Ali,,,,Laptop,Accessories,58641,1,2024-05-20,,1
+1707,Sana Khan,,twenty five,Faisalabad,TV,Electronics,,2,15-03-2024,,4
+1708,Hassan Raza,Female,,Lahore,Jewelry,Clothing,63797,4,2024-05-20,Card,
+1709,Hassan Raza,Female,,Lahore,Headphones,Accessories,,4,2024-05-20,,3
+1710,Hina Tariq,,,Faisalabad,Shoes,Beauty,70507,5,2024/02/15,Cash,2
+1711,Ahmed Raza,Female,,Karachi,Watch,Clothing,49906,3,2024/02/15,COD,4
+1712,Farhan Ali,Male,twenty five,Islamabad,Headphones,Beauty,113846,5,2024-05-20,COD,1
+1713,Sara Ahmed,Female,twenty five,Karachi,Perfume,Clothing,92611,5,15-03-2024,,4
+1714,Ahmed Ali,Male,twenty five,Karachi,Jewelry,Accessories,31006,3,2024/02/15,,1
+1715,Hina Tariq,,twenty five,Lahore,Makeup Kit,Beauty,27877,4,15-03-2024,cash,1
+1716,Sana Khan,Male,,Lahore,Shirt,Electronics,41545,5,2024/02/15,Cash,1
+1717,Sara Ahmed,Female,,,Makeup Kit,Electronics,117859,4,2024-01-10,cash,5
+1718,Ayesha Khan,Female,twenty five,Lahore,Handbag,Accessories,11044,3,15-03-2024,Card,
+1719,Hina Tariq,Female,twenty five,,Shirt,Electronics,,5,2024-01-10,COD,4
+1720,Ali Khan,,18,Islamabad,Headphones,Clothing,,2,2024/02/15,card,
+1721,Ali Khan,Male,20,Multan,Mobile Phone,Clothing,,3,2024-01-10,card,1
+1722,Zainab Malik,,twenty five,Faisalabad,Makeup Kit,Electronics,,3,15-03-2024,cash,
+1723,Ahmed Raza,,32,Multan,Watch,Accessories,88919,4,2024/02/15,card,4
+1724,,,twenty five,Faisalabad,Shoes,Beauty,,2,2024-05-20,Cash,5
+1725,Ayesha Khan,Male,twenty five,Karachi,Shirt,Beauty,86052,3,2024-01-10,,4
+1726,Sara Ahmed,Female,,Islamabad,Tablet,Clothing,,3,2024/02/15,card,
+1727,Ahmed Raza,Male,,Islamabad,Shoes,Accessories,,2,2024-05-20,,
+1728,,Male,twenty five,Lahore,Laptop,Accessories,,1,2024-01-10,Cash,1
+1729,Zainab Malik,Female,,Faisalabad,Perfume,Clothing,35153,4,2024-05-20,,5
+1730,Farhan Ali,Female,twenty five,Karachi,Tablet,Accessories,,5,2024/02/15,Cash,1
+1731,Kiran Noor,,twenty five,Lahore,Headphones,Accessories,50280,4,2024-05-20,card,1
+1732,Ahmed Raza,Male,,Karachi,Perfume,Beauty,3229,1,2024-01-10,Cash,
+1733,Sara Ahmed,,45,Faisalabad,Shirt,Electronics,3794,3,2024/02/15,card,
+1734,Ali Khan,Male,31,Karachi,Watch,Accessories,27767,5,2024-05-20,Cash,4
+1735,Hassan Raza,Male,49,Multan,Watch,Accessories,89552,4,15-03-2024,Cash,1
+1736,Zainab Malik,Male,twenty five,Islamabad,TV,Accessories,86503,3,2024/02/15,card,
+1737,Ahmed Raza,Male,35,Karachi,Shirt,Beauty,,2,2024-01-10,,3
+1738,Farhan Ali,,32,Multan,Watch,Electronics,,3,2024-05-20,card,3
+1739,Usman Ali,Male,twenty five,,Watch,Clothing,,3,2024-05-20,Cash,1
+1740,Farhan Ali,Female,28,Faisalabad,Watch,Beauty,,5,2024-01-10,,5
+1741,Ahmed Ali,Male,27,Faisalabad,Headphones,Accessories,,5,2024-01-10,Cash,2
+1742,Sana Khan,,twenty five,Karachi,Shoes,Accessories,,2,2024-05-20,COD,2
+1743,Ayesha Khan,,twenty five,Multan,Perfume,Accessories,,2,15-03-2024,card,3
+1744,Bilal Ahmed,,twenty five,Faisalabad,Shirt,Clothing,26953,3,2024/02/15,card,5
+1745,Farhan Ali,Female,twenty five,,Headphones,Electronics,62517,2,2024/02/15,Cash,5
+1746,Ali Khan,,twenty five,Lahore,Makeup Kit,Accessories,,4,2024-05-20,Card,1
+1747,Ali Khan,Female,42,Lahore,TV,Accessories,31321,5,15-03-2024,Cash,3
+1748,Ayesha Khan,Female,40,Islamabad,TV,Electronics,48836,4,2024/02/15,card,3
+1749,Sara Ahmed,,37,Karachi,Laptop,Clothing,18970,5,15-03-2024,Card,2
+1750,Zainab Malik,,41,Lahore,Headphones,Beauty,65922,2,15-03-2024,Cash,1
+1751,Usman Ali,Male,twenty five,Karachi,Laptop,Beauty,55176,2,2024-01-10,Card,3
+1752,Farhan Ali,Male,twenty five,Islamabad,Shirt,Beauty,,4,2024-05-20,card,
+1753,Sara Ahmed,Male,,Karachi,Jewelry,Accessories,45107,2,2024/02/15,Cash,5
+1754,Farhan Ali,Male,twenty five,Karachi,Shoes,Electronics,12275,2,2024-05-20,card,4
+1755,Zainab Malik,Female,twenty five,Lahore,TV,Accessories,,2,2024/02/15,Cash,4
+1756,Hina Tariq,,,Faisalabad,TV,Clothing,,3,15-03-2024,card,
+1757,Sana Khan,,twenty five,Faisalabad,Jewelry,Clothing,,3,15-03-2024,card,4
+1758,Bilal Ahmed,Male,,Faisalabad,TV,Beauty,,3,15-03-2024,COD,4
+1759,Ahmed Raza,Female,twenty five,Karachi,Shoes,Beauty,,2,2024/02/15,Card,2
+1760,Sara Ahmed,Male,twenty five,Multan,Shirt,Beauty,,2,2024-05-20,Cash,3
+1761,Usman Ali,Male,,Multan,Handbag,Clothing,63788,4,15-03-2024,COD,5
+1762,Hassan Raza,Male,twenty five,Lahore,Laptop,Beauty,27829,2,15-03-2024,COD,3
+1763,Sana Khan,Female,29,Multan,Watch,Clothing,77226,1,15-03-2024,Cash,4
+1764,Hina Tariq,Male,48,Islamabad,TV,Clothing,,1,15-03-2024,cash,1
+1765,Ahmed Raza,Male,26,Lahore,Tablet,Electronics,3481,2,2024-01-10,COD,3
+1766,Hassan Raza,Female,,Lahore,Makeup Kit,Clothing,8325,1,2024/02/15,cash,
+1767,Hassan Raza,Female,36,Islamabad,Handbag,Electronics,,4,2024-05-20,COD,3
+1768,Zainab Malik,Male,twenty five,Multan,Headphones,Clothing,63467,3,2024-01-10,card,2
+1769,Hassan Raza,,42,Islamabad,Perfume,Electronics,32980,1,2024-01-10,cash,1
+1770,Hassan Raza,Male,22,,Handbag,Beauty,88994,3,2024-05-20,Card,3
+1771,Sara Ahmed,,24,Karachi,Shoes,Clothing,22717,2,15-03-2024,card,1
+1772,,Male,twenty five,Faisalabad,Handbag,Beauty,103239,3,15-03-2024,COD,
+1773,Kiran Noor,Female,,Islamabad,Shoes,Accessories,12871,1,15-03-2024,Card,1
+1774,Ali Khan,Female,twenty five,,Laptop,Clothing,26873,5,2024/02/15,Cash,5
+1775,Hassan Raza,Female,50,Lahore,Perfume,Beauty,49861,2,15-03-2024,Card,2
+1776,Farhan Ali,,,Faisalabad,Shoes,Beauty,32494,2,2024-01-10,cash,1
+1777,Zainab Malik,Female,,Karachi,Headphones,Clothing,,2,2024/02/15,,2
+1778,Ayesha Khan,,34,Karachi,Jewelry,Beauty,,4,2024-05-20,Card,
+1779,Ahmed Raza,Male,,Faisalabad,Makeup Kit,Clothing,68638,4,2024-01-10,Cash,5
+1780,,Female,twenty five,Karachi,Makeup Kit,Beauty,,5,15-03-2024,Card,4
+1781,Zainab Malik,,,Lahore,TV,Electronics,,5,2024-01-10,Cash,3
+1782,Ahmed Raza,Female,,Lahore,Perfume,Beauty,43136,5,2024-05-20,COD,1
+1783,Hassan Raza,,20,,Headphones,Accessories,29345,4,2024/02/15,card,3
+1784,Ayesha Khan,,twenty five,Karachi,Shirt,Clothing,69888,2,15-03-2024,COD,5
+1785,Hassan Raza,Female,42,Islamabad,TV,Electronics,72516,4,2024-01-10,COD,
+1786,Usman Ali,Female,42,Lahore,Perfume,Electronics,,1,15-03-2024,cash,
+1787,Ahmed Raza,Male,30,Multan,Shoes,Accessories,,1,15-03-2024,cash,5
+1788,Sara Ahmed,Male,twenty five,Lahore,Handbag,Electronics,,4,15-03-2024,card,1
+1789,Ayesha Khan,,33,Islamabad,Mobile Phone,Accessories,63914,2,15-03-2024,Card,1
+1790,Hina Tariq,,40,Multan,Watch,Clothing,,2,2024-05-20,COD,2
+1791,Sana Khan,,29,Karachi,Shirt,Clothing,59321,2,2024-05-20,Card,
+1792,Bilal Ahmed,Male,,Faisalabad,Tablet,Beauty,,5,15-03-2024,COD,1
+1793,Ali Khan,,,Lahore,Makeup Kit,Accessories,,1,2024-05-20,card,4
+1794,Ayesha Khan,Male,,Faisalabad,Shirt,Beauty,56189,3,2024-05-20,COD,5
+1795,Ahmed Raza,Female,twenty five,Lahore,Handbag,Beauty,14512,1,2024/02/15,COD,3
+1796,Ali Khan,Female,twenty five,Lahore,Tablet,Clothing,46146,4,2024/02/15,,1
+1797,Sana Khan,Female,20,,Shoes,Electronics,20849,1,15-03-2024,card,
+1798,Ali Khan,,twenty five,Multan,Tablet,Electronics,78188,5,15-03-2024,,1
+1799,Ahmed Ali,,,Multan,Watch,Clothing,,3,2024/02/15,card,
+1800,,Male,,Multan,Perfume,Clothing,3911,5,15-03-2024,card,4
+1801,Ayesha Khan,Female,34,Islamabad,TV,Accessories,5326,4,2024-05-20,cash,1
+1802,Usman Ali,,twenty five,Karachi,Watch,Accessories,63175,4,2024-05-20,cash,5
+1803,,Female,,,Shirt,Electronics,70703,3,2024/02/15,Cash,5
+1804,Sana Khan,Male,32,Islamabad,Makeup Kit,Electronics,73106,4,15-03-2024,Card,
+1805,Ahmed Raza,Female,,,Headphones,Accessories,58401,3,15-03-2024,Cash,4
+1806,Ali Khan,Female,twenty five,,Laptop,Clothing,3222,2,2024/02/15,Cash,3
+1807,Farhan Ali,Male,37,Karachi,Handbag,Clothing,14958,3,2024-01-10,COD,
+1808,,Female,26,,Shoes,Accessories,42869,3,2024-05-20,Card,2
+1809,Zainab Malik,Male,48,Lahore,Handbag,Beauty,3615,4,2024-05-20,cash,
+1810,Ahmed Ali,,24,Islamabad,Perfume,Accessories,82783,4,2024/02/15,Cash,
+1811,Ahmed Ali,Female,twenty five,Multan,Mobile Phone,Accessories,81747,3,2024-05-20,Card,5
+1812,Kiran Noor,Female,47,Lahore,Makeup Kit,Accessories,,1,2024-05-20,Cash,4
+1813,Kiran Noor,,28,Karachi,Watch,Beauty,60773,3,2024-01-10,,2
+1814,Kiran Noor,Male,,Multan,Mobile Phone,Electronics,43839,2,2024-05-20,COD,5
+1815,Bilal Ahmed,Male,30,Islamabad,TV,Beauty,59238,5,15-03-2024,Cash,4
+1816,Sana Khan,,30,Karachi,Laptop,Electronics,14010,4,2024-05-20,cash,5
+1817,Kiran Noor,,42,Islamabad,TV,Beauty,109623,5,2024/02/15,cash,
+1818,Hina Tariq,Female,twenty five,Islamabad,Headphones,Accessories,53715,1,2024-05-20,card,
+1819,,Male,twenty five,Lahore,TV,Accessories,,1,2024-01-10,Cash,5
+1820,Hina Tariq,Male,twenty five,Karachi,Perfume,Electronics,,3,2024-01-10,cash,1
+1821,Hassan Raza,Male,45,,Mobile Phone,Beauty,53943,2,2024/02/15,,4
+1822,Farhan Ali,Female,twenty five,Faisalabad,Mobile Phone,Clothing,,5,2024-01-10,Cash,2
+1823,Sara Ahmed,Male,twenty five,Faisalabad,Perfume,Electronics,57346,5,15-03-2024,Card,3
+1824,Farhan Ali,Male,27,,Shoes,Clothing,98426,3,2024-01-10,Cash,
+1825,Ali Khan,Male,42,Faisalabad,Laptop,Accessories,102271,4,2024/02/15,,2
+1826,Ayesha Khan,Female,twenty five,Lahore,Tablet,Accessories,72708,5,15-03-2024,,2
+1827,Zainab Malik,,49,Islamabad,Perfume,Beauty,,1,2024/02/15,Cash,4
+1828,Usman Ali,,26,Lahore,Mobile Phone,Beauty,,3,2024/02/15,Cash,1
+1829,Ahmed Ali,Female,twenty five,,Handbag,Electronics,41789,5,2024-05-20,cash,1
+1830,Hassan Raza,Male,twenty five,Islamabad,TV,Accessories,85319,2,2024/02/15,cash,2
+1831,Ayesha Khan,Female,twenty five,Multan,Tablet,Electronics,,5,15-03-2024,Card,4
+1832,Kiran Noor,Female,43,Islamabad,Jewelry,Electronics,70152,5,15-03-2024,,2
+1833,Bilal Ahmed,Male,25,Karachi,Shoes,Clothing,,3,2024-01-10,COD,1
+1834,Usman Ali,Female,,Islamabad,Headphones,Clothing,9152,3,2024-01-10,cash,1
+1835,Ali Khan,Male,19,Lahore,Makeup Kit,Beauty,10214,1,15-03-2024,card,3
+1836,Sana Khan,,,,Makeup Kit,Accessories,64528,1,2024-05-20,,2
+1837,Zainab Malik,,,,Headphones,Clothing,,1,2024/02/15,cash,1
+1838,Ahmed Raza,,,Lahore,Makeup Kit,Accessories,57739,5,15-03-2024,,2
+1839,Ahmed Ali,Male,24,Multan,Makeup Kit,Beauty,84049,3,2024-05-20,Card,
+1840,Sara Ahmed,,21,Islamabad,Shoes,Beauty,,2,15-03-2024,cash,5
+1841,Farhan Ali,,33,Multan,Shirt,Beauty,9224,1,15-03-2024,,5
+1842,Hina Tariq,,,Faisalabad,Makeup Kit,Beauty,,2,15-03-2024,,1
+1843,Ali Khan,Male,twenty five,Lahore,Handbag,Beauty,,4,2024-01-10,card,2
+1844,Ahmed Ali,Male,29,,Headphones,Accessories,50399,1,2024-05-20,,2
+1845,Usman Ali,Male,38,Islamabad,Makeup Kit,Accessories,86733,4,15-03-2024,cash,4
+1846,Kiran Noor,Male,twenty five,Lahore,Shirt,Beauty,,3,15-03-2024,card,2
+1847,Hassan Raza,,twenty five,Islamabad,Shirt,Beauty,,4,2024-01-10,COD,3
+1848,Zainab Malik,Male,,Karachi,Mobile Phone,Electronics,,5,2024-05-20,,1
+1849,Sana Khan,,twenty five,Faisalabad,Shoes,Beauty,83550,3,15-03-2024,Cash,5
+1850,Hina Tariq,Male,twenty five,Lahore,Makeup Kit,Accessories,,4,2024-01-10,COD,5
+1851,Ayesha Khan,Female,,Karachi,Mobile Phone,Electronics,78299,1,2024-01-10,COD,
+1852,Kiran Noor,Male,,Karachi,Laptop,Electronics,,3,15-03-2024,card,1
+1853,,Female,,Karachi,Shoes,Beauty,,2,15-03-2024,cash,1
+1854,Hassan Raza,Female,29,Faisalabad,Watch,Accessories,,1,2024-05-20,cash,2
+1855,Zainab Malik,,31,Faisalabad,Handbag,Clothing,82362,3,2024-05-20,card,1
+1856,Bilal Ahmed,Female,44,Faisalabad,Perfume,Electronics,60009,1,2024/02/15,,1
+1857,Kiran Noor,Female,,Multan,Handbag,Accessories,,3,2024-01-10,cash,2
+1858,Ali Khan,Female,,Islamabad,Jewelry,Electronics,37063,2,2024-05-20,card,2
+1859,Ahmed Raza,Male,twenty five,Multan,Watch,Clothing,27943,3,15-03-2024,,
+1860,Bilal Ahmed,Male,twenty five,Faisalabad,Shirt,Electronics,12620,5,15-03-2024,Card,2
+1861,Ali Khan,Female,twenty five,Lahore,TV,Beauty,,2,2024-01-10,COD,1
+1862,Bilal Ahmed,Male,,Multan,Makeup Kit,Clothing,98068,1,2024-01-10,cash,5
+1863,Zainab Malik,,,,Shoes,Accessories,44926,3,2024-01-10,COD,
+1864,Hassan Raza,Male,,,Shoes,Electronics,83709,1,2024-05-20,,4
+1865,Zainab Malik,Male,42,Faisalabad,Watch,Accessories,63608,4,2024/02/15,Card,1
+1866,Sana Khan,Male,,Karachi,Mobile Phone,Beauty,,1,2024-05-20,Cash,2
+1867,Ayesha Khan,Female,twenty five,,Tablet,Accessories,8590,3,2024-01-10,cash,1
+1868,Kiran Noor,,twenty five,Karachi,Laptop,Accessories,5062,3,15-03-2024,card,1
+1869,Ali Khan,,49,Islamabad,Mobile Phone,Clothing,,4,2024-05-20,Cash,3
+1870,Farhan Ali,Female,,Multan,Shirt,Accessories,,5,2024-05-20,COD,
+1871,Ali Khan,Male,,,Laptop,Clothing,,2,2024/02/15,cash,2
+1872,Kiran Noor,,twenty five,Islamabad,Shirt,Clothing,114270,3,15-03-2024,Cash,4
+1873,Sana Khan,,twenty five,,Jewelry,Electronics,88800,3,15-03-2024,COD,5
+1874,Sana Khan,,,Karachi,Watch,Accessories,76711,4,2024-05-20,cash,4
+1875,Hina Tariq,Male,,Karachi,Makeup Kit,Electronics,20182,5,2024-01-10,COD,3
+1876,Hassan Raza,Male,33,Faisalabad,Tablet,Clothing,9122,3,15-03-2024,card,1
+1877,Hina Tariq,Female,twenty five,Karachi,Tablet,Electronics,34746,3,2024-01-10,cash,1
+1878,Ayesha Khan,,twenty five,,Shirt,Beauty,79041,4,2024/02/15,card,5
+1879,Kiran Noor,Male,,Lahore,Tablet,Clothing,4711,3,15-03-2024,Cash,3
+1880,Sara Ahmed,Male,twenty five,,Mobile Phone,Clothing,8052,1,2024/02/15,Card,2
+1881,Zainab Malik,Female,39,Faisalabad,TV,Beauty,31363,1,2024-05-20,cash,2
+1882,Usman Ali,Female,twenty five,Multan,Shoes,Beauty,49848,4,2024-05-20,Card,5
+1883,Sara Ahmed,Male,20,Multan,Jewelry,Beauty,86486,2,2024-05-20,Card,3
+1884,Usman Ali,Male,31,Karachi,Shirt,Clothing,82937,1,2024-01-10,,1
+1885,Ayesha Khan,Female,27,Faisalabad,Headphones,Clothing,111147,2,2024-01-10,cash,4
+1886,Bilal Ahmed,Male,twenty five,Faisalabad,Handbag,Accessories,,2,15-03-2024,COD,4
+1887,Zainab Malik,Female,twenty five,Lahore,Mobile Phone,Accessories,,3,15-03-2024,,4
+1888,Sara Ahmed,Female,twenty five,Faisalabad,Makeup Kit,Electronics,,2,2024-05-20,,
+1889,Farhan Ali,Male,twenty five,Faisalabad,Headphones,Accessories,86654,1,2024/02/15,COD,2
+1890,Ahmed Ali,Female,twenty five,Islamabad,TV,Beauty,48951,1,15-03-2024,cash,1
+1891,Zainab Malik,Female,,Faisalabad,TV,Clothing,28648,4,2024-05-20,COD,4
+1892,Farhan Ali,Female,,Islamabad,Tablet,Electronics,91092,3,2024-01-10,COD,3
+1893,Ali Khan,Male,twenty five,Islamabad,TV,Accessories,14996,4,15-03-2024,COD,1
+1894,Bilal Ahmed,Male,,Multan,Makeup Kit,Accessories,,3,2024-01-10,Card,
+1895,Hassan Raza,,36,Faisalabad,Tablet,Clothing,30389,3,15-03-2024,,3
+1896,Ahmed Raza,,twenty five,Karachi,Perfume,Clothing,61209,5,2024-05-20,Card,3
+1897,Farhan Ali,Male,24,Islamabad,Tablet,Clothing,118869,4,2024-05-20,COD,3
+1898,,Male,twenty five,,Makeup Kit,Accessories,28381,4,15-03-2024,Card,
+1899,Ahmed Raza,Male,,Lahore,Laptop,Clothing,34551,4,2024/02/15,,2
+1900,Hassan Raza,,25,Multan,Makeup Kit,Electronics,65259,5,2024-05-20,,5
+1901,Zainab Malik,,twenty five,Islamabad,Makeup Kit,Electronics,,3,2024-01-10,Cash,1
+1902,Farhan Ali,,27,Islamabad,Tablet,Beauty,10839,3,2024/02/15,COD,4
+1903,Farhan Ali,Male,twenty five,Islamabad,Perfume,Clothing,112129,5,15-03-2024,Cash,1
+1904,Ayesha Khan,,,Karachi,Shirt,Accessories,,5,2024-01-10,Card,3
+1905,Bilal Ahmed,Male,36,Lahore,Jewelry,Beauty,21058,3,2024-01-10,card,
+1906,Bilal Ahmed,Female,31,Lahore,Laptop,Electronics,,2,2024-05-20,Card,4
+1907,Usman Ali,Male,,Faisalabad,Handbag,Clothing,47011,5,2024-05-20,cash,4
+1908,Ali Khan,,,Multan,Perfume,Electronics,55880,5,2024/02/15,cash,5
+1909,Ayesha Khan,Female,,Islamabad,Handbag,Clothing,119925,4,2024-01-10,Card,2
+1910,,,,Karachi,Laptop,Electronics,102417,1,2024-05-20,cash,5
+1911,Ahmed Raza,,twenty five,Islamabad,Jewelry,Beauty,72945,2,2024-05-20,COD,2
+1912,Usman Ali,Female,,Islamabad,Tablet,Electronics,76008,4,2024/02/15,Cash,
+1913,Bilal Ahmed,,twenty five,Karachi,Watch,Clothing,,3,15-03-2024,,5
+1914,Sara Ahmed,Female,19,Multan,Watch,Beauty,,2,2024/02/15,cash,5
+1915,Sana Khan,Male,twenty five,,Shirt,Clothing,80653,5,2024-01-10,,5
+1916,Kiran Noor,Male,,Faisalabad,Handbag,Clothing,28722,3,2024/02/15,COD,3
+1917,Ali Khan,,29,Karachi,Shoes,Beauty,21241,3,2024-05-20,,1
+1918,Farhan Ali,Female,,Lahore,Handbag,Beauty,3230,2,2024/02/15,Cash,
+1919,Kiran Noor,Female,,Multan,Headphones,Accessories,,4,15-03-2024,cash,4
+1920,Ahmed Raza,Female,,Faisalabad,Makeup Kit,Accessories,12029,1,2024/02/15,Cash,2
+1921,Hina Tariq,Female,,Faisalabad,Jewelry,Beauty,,1,2024-05-20,COD,1
+1922,Kiran Noor,,twenty five,Lahore,Tablet,Clothing,14089,5,2024/02/15,Cash,4
+1923,Ali Khan,Male,41,,Jewelry,Accessories,77597,3,2024-01-10,,
+1924,,Male,19,Lahore,Mobile Phone,Beauty,41056,2,2024-05-20,,
+1925,Ahmed Ali,Male,twenty five,Faisalabad,Perfume,Clothing,,5,15-03-2024,Card,3
+1926,Usman Ali,Female,23,,Makeup Kit,Accessories,39010,4,2024/02/15,Cash,
+1927,Farhan Ali,Female,33,Karachi,Tablet,Electronics,18461,2,15-03-2024,Cash,1
+1928,Hassan Raza,,,,Handbag,Accessories,,5,2024/02/15,cash,2
+1929,Ayesha Khan,,twenty five,Islamabad,Watch,Beauty,26313,4,2024-01-10,COD,
+1930,Bilal Ahmed,,,Islamabad,Laptop,Accessories,18174,5,2024-01-10,Cash,3
+1931,Hina Tariq,,twenty five,,Perfume,Electronics,,5,2024-01-10,cash,1
+1932,Hassan Raza,Female,twenty five,Multan,Makeup Kit,Accessories,117090,4,2024-01-10,COD,4
+1933,Hina Tariq,Male,23,Faisalabad,Laptop,Beauty,24169,2,2024-05-20,Cash,2
+1934,Ayesha Khan,Male,,Multan,Watch,Electronics,26532,1,2024/02/15,cash,
+1935,Usman Ali,,18,Faisalabad,Shoes,Electronics,,2,2024-05-20,,
+1936,,,,,Headphones,Accessories,,3,2024-05-20,Card,1
+1937,Zainab Malik,Male,,Faisalabad,Shoes,Electronics,102409,2,2024-05-20,COD,
+1938,Farhan Ali,,,Karachi,Watch,Clothing,78997,5,2024/02/15,cash,1
+1939,Hina Tariq,,twenty five,Islamabad,Laptop,Accessories,,2,2024-05-20,,2
+1940,Ali Khan,,44,Lahore,Makeup Kit,Accessories,31451,1,2024-01-10,,5
+1941,Farhan Ali,Male,twenty five,Karachi,Shirt,Electronics,15546,5,2024-01-10,card,2
+1942,Bilal Ahmed,Female,,,Headphones,Clothing,,4,15-03-2024,Cash,
+1943,Hassan Raza,Female,19,Islamabad,Jewelry,Clothing,110035,1,2024-01-10,COD,3
+1944,Usman Ali,Male,twenty five,Karachi,Jewelry,Accessories,,2,15-03-2024,,
+1945,Bilal Ahmed,Male,,Lahore,Tablet,Beauty,19411,4,2024-01-10,Card,3
+1946,Hassan Raza,Female,37,Karachi,Tablet,Electronics,,4,15-03-2024,cash,
+1947,Ahmed Raza,Female,23,Islamabad,Makeup Kit,Accessories,6461,2,2024/02/15,card,1
+1948,Ali Khan,Male,,Islamabad,Tablet,Beauty,87699,3,2024-01-10,Card,
+1949,Ahmed Ali,Male,twenty five,Faisalabad,Tablet,Clothing,39519,2,2024-01-10,,4
+1950,Zainab Malik,Male,twenty five,Multan,Makeup Kit,Beauty,,3,15-03-2024,Card,5
+1951,Sara Ahmed,Male,,Lahore,Watch,Clothing,,2,2024/02/15,Card,2
+1952,Hina Tariq,Male,twenty five,Faisalabad,Shirt,Electronics,20860,1,2024/02/15,Card,5
+1953,Farhan Ali,Male,50,Lahore,Shirt,Accessories,43491,3,15-03-2024,card,2
+1954,Kiran Noor,,34,,Makeup Kit,Electronics,45696,3,2024/02/15,card,2
+1955,Ayesha Khan,Male,20,Multan,Perfume,Clothing,30425,5,2024-01-10,Card,4
+1956,Sana Khan,,twenty five,Karachi,Tablet,Accessories,,2,2024/02/15,card,2
+1957,Hina Tariq,Male,twenty five,Lahore,Watch,Electronics,,5,2024/02/15,COD,2
+1958,Hina Tariq,Female,twenty five,,Perfume,Accessories,,4,2024-01-10,,3
+1959,Hassan Raza,,,Islamabad,Watch,Electronics,,3,15-03-2024,card,1
+1960,Kiran Noor,Male,,Faisalabad,Shirt,Accessories,,4,15-03-2024,COD,5
+1961,Sara Ahmed,Male,24,Karachi,Headphones,Accessories,57490,2,15-03-2024,,5
+1962,Hina Tariq,Female,25,Karachi,Tablet,Electronics,94459,1,2024-05-20,COD,3
+1963,Hina Tariq,,twenty five,Islamabad,Mobile Phone,Accessories,89735,5,2024/02/15,Card,2
+1964,Hassan Raza,Male,32,Islamabad,Perfume,Electronics,117175,1,2024-01-10,Cash,4
+1965,Usman Ali,Female,twenty five,Multan,Handbag,Clothing,99148,2,2024-01-10,,4
+1966,Hassan Raza,,44,Faisalabad,Jewelry,Electronics,,2,15-03-2024,cash,1
+1967,Sara Ahmed,Male,30,,Perfume,Clothing,3047,5,15-03-2024,cash,5
+1968,Hassan Raza,Male,twenty five,Karachi,Watch,Accessories,84343,4,2024/02/15,Card,5
+1969,Ayesha Khan,Female,twenty five,Islamabad,Watch,Clothing,,3,2024-01-10,Cash,
+1970,Farhan Ali,,28,Faisalabad,Tablet,Clothing,,3,2024-01-10,COD,5
+1971,Sara Ahmed,Male,,Karachi,Shirt,Accessories,15247,5,2024/02/15,COD,3
+1972,Ayesha Khan,Female,twenty five,Karachi,Makeup Kit,Accessories,,5,2024/02/15,card,5
+1973,Sana Khan,,47,Multan,Watch,Electronics,47066,5,2024/02/15,Cash,1
+1974,Ahmed Raza,,34,Lahore,Headphones,Beauty,24263,2,15-03-2024,Cash,4
+1975,Bilal Ahmed,Female,34,Faisalabad,Tablet,Accessories,,5,15-03-2024,cash,2
+1976,Farhan Ali,Female,49,Faisalabad,Makeup Kit,Beauty,80065,1,2024/02/15,cash,3
+1977,Bilal Ahmed,Female,34,Faisalabad,Mobile Phone,Accessories,4875,5,2024-05-20,Cash,4
+1978,Zainab Malik,Male,36,Faisalabad,Handbag,Clothing,36832,1,2024-05-20,,1
+1979,Farhan Ali,Female,twenty five,Multan,Headphones,Clothing,75033,5,2024-01-10,COD,3
+1980,,Female,42,Karachi,Tablet,Electronics,,3,2024/02/15,COD,3
+1981,Hassan Raza,Female,25,Multan,Mobile Phone,Clothing,,3,2024/02/15,COD,
+1982,Ahmed Ali,Male,twenty five,Lahore,Laptop,Beauty,48390,4,15-03-2024,COD,5
+1983,Ayesha Khan,Female,twenty five,Lahore,Watch,Electronics,101963,1,15-03-2024,cash,3
+1984,Kiran Noor,Female,twenty five,Faisalabad,Mobile Phone,Electronics,,3,2024/02/15,cash,3
+1985,Bilal Ahmed,Male,,Lahore,Makeup Kit,Clothing,48396,2,2024-01-10,Cash,2
+1986,Ahmed Ali,Male,,Lahore,Headphones,Accessories,,3,15-03-2024,card,4
+1987,Ali Khan,Female,twenty five,Karachi,Makeup Kit,Beauty,66440,4,2024-01-10,Card,2
+1988,Ahmed Ali,,twenty five,Islamabad,Laptop,Clothing,,5,15-03-2024,Card,
+1989,Zainab Malik,Male,,Islamabad,Headphones,Electronics,,1,15-03-2024,Card,5
+1990,Ali Khan,,46,Islamabad,Jewelry,Clothing,86650,5,2024-05-20,Cash,4
+1991,Hassan Raza,,twenty five,Faisalabad,Watch,Clothing,64163,2,15-03-2024,Cash,
+1992,Zainab Malik,Female,46,Multan,Headphones,Electronics,85235,5,2024-01-10,,2
+1993,Ahmed Ali,Male,,Multan,Watch,Accessories,,4,15-03-2024,COD,1
+1994,Farhan Ali,Female,,Multan,Mobile Phone,Accessories,85484,5,2024/02/15,Cash,
+1995,Bilal Ahmed,,43,Karachi,Handbag,Beauty,37940,4,2024/02/15,cash,5
+1996,Ali Khan,Female,30,Faisalabad,Shirt,Beauty,34801,2,2024-05-20,,3
+1997,Ayesha Khan,Female,twenty five,Karachi,Laptop,Electronics,42870,1,2024/02/15,Cash,4
+1998,Ali Khan,,,,TV,Clothing,110825,5,15-03-2024,Cash,5
+1999,Hassan Raza,,32,Faisalabad,Shoes,Clothing,,3,15-03-2024,COD,5
