@@ -1,0 +1,4 @@
+pandas>=2.0
+matplotlib
+seaborn
+notebook
