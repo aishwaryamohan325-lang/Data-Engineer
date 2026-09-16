@@ -4,7 +4,7 @@ Hands-on projects in **Python data analysis, Azure Data Factory and Azure Databr
 
 ![Data engineering portfolio](project_banner.png)
 
-This portfolio brings together a runnable sales-analysis notebook and documented Azure exercises covering data movement, orchestration, transformation and storage access.
+This portfolio brings together a sales-analysis notebook and documented Azure exercises covering data movement, orchestration, transformation, REST API ingestion and incremental loading.
 
 ## Start here
 
@@ -15,6 +15,8 @@ This portfolio brings together a runnable sales-analysis notebook and documented
 | ADF Control Flow | Triggers, variables, metadata, loops and conditional file routing | [Two exercises](Microsoft-Azure-Projects/Control-Flow/) |
 | ADF Data Flows | Derived columns, column selection, filtering, sorting and joins | [Transformation walkthroughs](Microsoft-Azure-Projects/Data-Flows/) |
 | Databricks and ADLS Gen2 | Reading cloud files and retrieving secrets through Azure Key Vault | [Integration walkthrough](Microsoft-Azure-Projects/Databricks/) |
+| API fetching | Google News and Shopping API ingestion into ADLS Gen2 | [REST API pipelines](Microsoft-Azure-Projects/API-Fetching/) |
+| Incremental load | Watermark-based SQL ingestion using lookups, Copy Data and a stored procedure | [Incremental loading walkthrough](Microsoft-Azure-Projects/Incremental-Load/) |
 
 ## Repository structure
 
@@ -29,17 +31,20 @@ Data-Engineer/
 │   ├── Copy-Activity/
 │   ├── Control-Flow/
 │   ├── Data-Flows/
-│   └── Databricks/
+│   ├── Databricks/
+│   ├── API-Fetching/
+│   └── Incremental-Load/
 ├── README.md
 └── project_banner.png
 ```
 
 ## Skills demonstrated
 
-**Analysis:** Python, Pandas, Matplotlib, Seaborn, data cleaning, aggregation and exploratory analysis.  
-**Azure:** Data Factory, Blob Storage, Azure SQL Database, Databricks, ADLS Gen2 and Key Vault.
+**Analysis:** Python, Pandas, Matplotlib, Seaborn, data cleaning, aggregation and exploratory analysis.
 
-For a quick review, start with the sales notebook's analysis questions, then explore the conditional routing and Data Flow walkthroughs. Each Azure folder contains a guide linking to the original PDF evidence.
+**Azure:** Data Factory, Blob Storage, Azure SQL Database, Databricks, ADLS Gen2, Key Vault, REST API ingestion and watermark-based incremental loading.
+
+For a quick review, start with the sales notebook, then explore the conditional routing, API ingestion and incremental-load walkthroughs. Each Azure folder contains a guide linking to the original PDF evidence.
 
 ## Scope
 
